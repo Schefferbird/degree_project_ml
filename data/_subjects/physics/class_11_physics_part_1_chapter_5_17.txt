@@ -1,0 +1,55 @@
+method in solved examples. To handle a typical
+problem in mechanics systematically, one
+should use the following steps :
+
+(1)
+
+Draw a diagram showing schematically the
+various parts of the assembly of bodies, the
+links, supports, etc.
+
+(ii) Choose a convenient part of the assembly
+as one system.
+
+(iii) Draw a separate diagram which shows this
+
+system and all the forces on the system by
+the remaining part of the assembly. Include
+also the forces on the system by other
+agencies. Do not include the forces on the
+environment by the system. A diagram of
+
+the net force on the block must be zero i.e.,
+R = 20 N. Using third law the action of the
+block (i.e. the force exerted on the ﬂoor by
+the block) is equal to 20 N and directed
+vertically downwards.
+
+(b) The system (block + cylinder) accelerates
+
+downwards with 0.1 m s2. The free-body
+diagram of the system shows two forces on
+the system : the force of gravity due to the
+earth (270 N); and the normal force R’ by the
+ﬂoor. Note, the free-body diagram of the
+system does not show the internal forces
+between the block and the cylinder. Applying
+the second law to the system,
+
+this type is known as ‘a free-body diagram’.
+(Note this does not imply that the system
+under consideration is without a net force).
+(iv) In a free-body diagram, include information R
+about forces (their magnitudes and
+directions) that are either given or you are u
+sure of (e.g., the direction of tension in a
+20 N
+Free-body diagram
+of the block
+
+270 — R’ = 27 X 0.1N
+16. R’ = 267.3 N
+
+string along its length). The rest should be
+treated as unknowns to be determined using
+laws of motion.

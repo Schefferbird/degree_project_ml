@@ -1,0 +1,35 @@
+The advantage of this method is that it can be
+used for motion with non-uniform acceleration
+also.
+
+Now, we shall use these equations to some
+important cases. 4
+
+
+Example 3.4 A ball is thrown vertically
+upwards with a velocity of 20 In S‘1 from
+the top of a multistorey building. The
+height of the point from where the ball is
+thrown is 25.0 m from the ground. (a) How
+high will the ball rise ‘? and (b) how long
+will it be before the ball hits the ground?
+Take g =10 m s‘2.
+
+ 
+Answer (a) Let us take the y-axis in the
+vertically upward direction with zero at the
+ground, as shown in Fig. 3.13.
+Now v0: + 20 m 8—1,
+a = —g=—lOmS'2,
+v = O m S‘1
+If the ball rises to height y from the point of
+
+launch, then using the equation
+v2: v§+2 a (y—yo)
+
+we get
+0 = (20? + 2(—10)(y — yo)
+Solving, we get, (y — yo) = 20 m.
+
+(b) We can solve this part of the problem in two
+ways. Note carefully the methods used.

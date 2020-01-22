@@ -1,0 +1,35 @@
+7.7.1 Moment of force (Torque)
+
+We have learnt that the motion of a rigid body,
+in general, is a combination of rotation and
+translation. If the body is fixed at a point or along
+a line, it has only rotational motion. We know
+that force is needed to change the translational
+state of a body, i.e. to produce linear
+acceleration. We may then ask, what is the
+analogue of force in the case of rotational
+motion? To look into the question in a concrete
+situation let us take the example of opening or
+closing of a door. A door is a rigid body which
+can rotate about a fixed vertical axis passing
+through the hinges. What makes the door
+rotate? It is clear that unless a force is applied
+the door does not rotate. But any force does not
+do the job. A force applied to the hinge line
+cannot produce any rotation at all, whereas a
+force of given magnitude applied at right angles
+to the door at its outer edge is most effective in
+producing rotation. It is not the force alone, but
+how and where the force is applied is important
+in rotational motion.
+
+The rotational analogue of force in linear
+motion is moment of force. It is also referred to
+as torque or couple. (We shall use the words
+moment of force and torque interchangeably.)
+We shall first define the moment of force for the
+special case of a single particle. Later on we
+shall extend the concept to systems of particles
+including rigid bodies. We shall also relate it to
+a change in the state of rotational motion, i.e. is
+angular acceleration of a rigid body.

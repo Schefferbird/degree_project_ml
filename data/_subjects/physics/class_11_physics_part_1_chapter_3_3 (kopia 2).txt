@@ -1,0 +1,38 @@
+Geometrically, this is the slope of the straight
+line P1P2 connecting the initial position P1 to
+the final position P2 as shown in Fig. 3.4.
+
+The average velocity can be positive or negative
+depending upon the sign of the displacement. It
+is zero if the displacement is zero. Fig. 3.5 shows
+the x—t graphs for an obj ect, moving with positive
+velocity (Fig. 3.5a), moving with negative velocity
+(Fig. 3.5b) and at rest (Fig. 3.5c).
+
+
+Average velocity as defined above involves
+only the displacement of the object. We have seen
+earlier that the magnitude of displacement may
+be different from the actual path length. To
+describe the rate of motion over the actual path,
+we introduce another quantity called average
+speed.
+
+Average speed is defined as the total path
+length travelled divided by the total time
+interval during which the motion has taken
+place :
+
+Total path length
+Average speed 2 — (32)
+
+Total time interval
+Average speed has obviously the same unit
+(m s4) as that of velocity. But it does not tell us
+in what direction an object is moving. Thus, it
+is always positive (in contrast to the average
+velocity which can be positive or negative). If the
+motion of an object is along a straight line and
+in the same direction, the magnitude of
+displacement is equal to the total path length.
+In that case, the magnitude of average velocity

@@ -1,0 +1,20 @@
+2.5 MEASUREMENT OF TIME
+
+To measure any time interval we need a clock.
+We now use an atomic standard of time, which
+is based on the periodic vibrations produced in
+a cesium atom. This is the basis of the cesium
+clock, sometimes called atomic clock, used in
+the national standards. Such standards are
+available in many laboratories. In the cesium
+atomic clock, the second is taken as the time
+needed for 9,192.63 1,770 vibrations of the
+radiation corresponding to the transition
+between the two hyperfine levels of the ground
+state of cesium- 133 atom. The vibrations of the
+cesium atom regulate the rate of this cesium
+atomic clock just as the vibrations of a balance
+wheel regulate an ordinary wristwatch or the
+vibrations of a small quartz crystal regulate a
+quartz wristwatch.
+

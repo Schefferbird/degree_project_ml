@@ -1,0 +1,42 @@
+(1/2T+ 1/2t)2 =(1/2T+ 1/2t)X(1/2T+ 1/2t) = 1/4TT+ 1/2Tt+ 1/4-tt
+
+Mendel self-pollinated the F2 plants and found that dwarf F2 plants
+continued to generate dwarf plants in F3 and F 4 generations. He concluded
+that the genotype of the dwarfs was homozygous — tt. What do you think
+he would have got had he self-pollinated a tall F2 plant?
+
+From the preceeding paragraphs it is clear that though the genotypic
+ratios can be calculated using mathematical probability, by simply looking
+at the phenotype of a dominant trait, it is not possible to know the
+genotypic composition. That is, for example, whether a tall plant from F1
+or F2 has TT or Tt composition, cannot be predicted. Therefore, to determine
+the genotype of a tall plant at F2, Mendel crossed the tall plant from F2
+with a dwarf plant. This he called a test cross. In a typical test cross an
+organism (pea plants here) showing a dominant phenotype (and whose
+genotype is to be determined) is crossed with the recessive parent instead
+of self-crossing. The progenies of such a cross can easily be analysed to
+predict the genotype of the test organism. Figure 5.5 shows the results of
+typical test cross where Violet colour ﬂower (W) is dominant over white
+colour ﬂower (w).
+
+Using Punnett square, try to ﬁnd out the nature of offspring of a test cross.
+What ratio did you get?
+
+Using the genotypes of this cross, can you give a general deﬁnition for
+a test cross?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

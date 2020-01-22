@@ -1,0 +1,46 @@
+Fundamental Second harmonic
+
+are heard at the same time, we hear a sound of
+similar frequency (the average of two close
+frequencies), but we hear something else also.
+We hear audibly distinct waxing and waning of
+the intensity of the sound, with a frequency
+equal to the difference in the two close
+frequencies. Artists use this phenomenon often
+while tuning their instruments with each other.
+They go on tuning until their sensitive ears do
+not detect any beats.
+
+To see this mathematically, let us consider
+two harmonic sound waves of nearly equal
+angular frequency 031 and 032 and ﬁx the location
+to be X = O for convenience. Eq. (15.2) with a
+suitable choice of phase (4) = 7: / 2 for each) and,
+assuming equal amplitudes, gives
+
+31: a cos (alt and $2 = a cos cozt (15.45)
+
+Here we have replaced the symbol y by 5,
+since we are referring to longitudinal not
+transverse displacement. Let co1 be the (slightly)
+greater of the two frequencies. The resultant
+displacement is, by the principle of
+superposition,
+
+s= 31 +32 = a(cosw1t+cos w2t)
+
+Using the familiar trignometric identity for
+cos A + cosB, we get
+
+= 2 (1 008M 008% (15.46)
+2 2
+which may be written as :
+s = [2 a cos wbt] cos (oat (15.47)
+If lag—(02! <<w1, (o2, wa>> (ob, th
+
+where
+
+Cob: (ad—ab) and (0a: (al—Fagl)
+
+2 2
+Now if we assume I w1 —w2 I <<w1, which means

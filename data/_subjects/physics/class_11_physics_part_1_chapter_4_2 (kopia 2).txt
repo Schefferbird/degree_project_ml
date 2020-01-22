@@ -1,0 +1,17 @@
+4.4 ADDITION AND SUBTRACTION OF VECTORS — GRAPHICAL METHOD
+
+As mentioned in section 4.2, vectors, by
+definition, obey the triangle law or equivalently,
+the parallelogram law of addition. We shall now
+describe this law of addition using the graphical
+method. Let us consider two vectors A and B that
+lie in a plane as shown in Fig. 4.4(a). The lengths
+of the line segments representing these vectors
+are proportional to the magnitude of the vectors.
+To find the sum A + B, we place vector B so that
+its tail is at the head of the vector A, as in
+Fig. 4.4(b). Then, we join the tail of A to the head
+of B. This line 09 represents a vector R, that is,
+the sum of the vectors A and B. Since, in this
+procedure of vector addition, vectors are
+

@@ -1,0 +1,7 @@
+1.3.5 Class
+
+This category includes related orders. For example, order Primata
+comprising monkey, gorilla and gibbon is placed in class
+Mammalia along with order Carnivora that includes animals like
+tiger, cat and dog. Class Mammalia has other orders also.
+

@@ -1,0 +1,43 @@
+2.7.3 Rules for Determining the Uncertainty
+in the Results of Arithmatic
+Calculations
+
+The rules for determining the uncertainty or
+error in the number/measured quantity in
+arithmetic operations can be understood from
+the following examples.
+
+(1) If the length and breadth of a thin
+rectangular sheet are measured, using a metre
+scale as 16.2 cm and, 10.1 cm respectively, there
+are three significant figures in each
+measurement. It means that the length I may
+be written as
+
+l= 16.2 i 0.1 cm
+= 16.2 cm i 0.6 %.
+Similarly, the breadth b may be written as
+b= 10.1 $0.1 cm
+= 10.1 cm i 1 %
+
+Then, the error of the product of two (or more)
+experimental values, using the combination of
+errors rule, will be
+
+lb= 163.62 cmZ: 1.6%
+
+= 163.62 1 2.6 cm2
+
+This leads us to quote the final result as
+lb = 164 i 3 cm2
+
+Here 3 cm2 is the uncertainty or error in the
+estimation of area of rectangular sheet.
+
+(2) If a set of experimental data is specified
+to 11 signiﬁcant ﬁgures, a result obtained by
+combining the data will also be valid to n
+significant ﬁgures.
+
+However, if data are subtracted, the number of
+significant figures can be reduced.

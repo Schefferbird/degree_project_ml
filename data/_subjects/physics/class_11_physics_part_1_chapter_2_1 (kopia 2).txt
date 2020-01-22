@@ -1,0 +1,18 @@
+Temperature
+
+Amount of mole mol The mole is the amount of substance of a system, which contains
+
+substance as many elementary entities as there are atoms in 0.012
+kilogram of carbon - 12. (1971)
+
+Luminous candela cd The candela is the luminous intensity, in a given
+
+intensity direction, of a source that emits monochromatic radiation of
+
+frequency 540x1012 hertz and that has a radiant intensity in
+that direction of 1 / 683 watt per steradian. (1979)
+
+* The values mentioned here need not be remembered or asked in a test. They are given here only to indicate the
+extent of accuracy to which they are measured. With progress in technology, the measuring techniques get
+improved leading to measurements with greater precision. The deﬁnitions of base units are revised to keep up
+with this progress.

@@ -1,0 +1,30 @@
+(ii) the force on the ﬂoor by the system
+(action); the force on the system by the
+ﬂoor (reaction). In addition, for (b), the
+force on the block by the cylinder and
+the force on the cylinder by the block
+also constitute an action-reaction pair.
+
+The important thing to remember is that an
+action-reaction pair consists of mutual forces
+which are always equal and opposite between
+two bodies. Two forces on the same body which
+happen to be equal and opposite can never
+constitute an action-reaction pair. The force of
+
+gravity on the mass in (a) or (b) and the normal
+force on the mass by the ﬂoor are not action-
+reaction pairs. These forces happen to be equal
+and opposite for (a) since the mass is at rest.
+They are not so for case (b), as seen already.
+The weight of the system is 270 N, while the
+normal force R’ is 267.3 N. 4
+
+The practice of drawing free-body diagrams is
+of great help in solving problems in mechanics.
+It allows you to clearly define your system and
+consider all forces on the system due to objects
+that are not part of the system itself. A number
+of exercises in this and subsequent chapters will
+help you cultivate this practice.
+

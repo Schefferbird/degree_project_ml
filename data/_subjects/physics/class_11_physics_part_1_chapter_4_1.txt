@@ -1,0 +1,38 @@
+just as the ordinary numbers*. For example,
+if the length and breadth of a rectangle are
+1.0 m and 0.5 m respectively, then its
+perimeter is the sum of the lengths of the
+four sides, 1.0 m + 0.5 m +1.0 m + 0.5 m =
+3.0 m. The length of each side is a scalar
+and the perimeter is also a scalar. Take
+another example: the maximum and
+minimum temperatures on a particular day
+are 35.6 °C and 24.2 °C respectively. Then,
+the difference between the two temperatures
+is 1 1.4 °C. Similarly, if a uniform solid cube
+of aluminium of side 10 cm has a mass of
+2.7 kg, then its volume is 10'3 m3 (a scalar)
+and its density is 2.7x103 kg m'3 (a scalar).
+
+A vector quantity is a quantity that has both
+a magnitude and a direction and obeys the
+triangle law of addition or equivalently the
+parallelogram law of addition. So, a vector is
+specified by giving its magnitude by a number
+and its direction. Some physical quantities that
+are represented by vectors are displacement,
+velocity, acceleration and force.
+
+To represent a vector, we use a bold face type
+in this book. Thus, a velocity vector can be
+represented by a symbol v. Since bold face is
+difficult to produce, when written by hand, a
+vector is often represented by an arrow placed
+over a letter, say U. Thus, both v and U
+represent the velocity vector. The magnitude of
+a vector is often called its absolute value,
+indicated by |v| = v. Thus, a vector is
+represented by a bold face, e.g. byA, a, p, q, r,
+x, y, with respective magnitudes denoted by light
+face A, a, p, q, r, x, y.
+

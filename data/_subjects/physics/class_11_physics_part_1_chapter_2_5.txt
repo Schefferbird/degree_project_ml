@@ -1,0 +1,25 @@
+2.3.3 Range of Lengths
+
+The sizes of the objects we come across in the
+universe vary over a very wide range. These may
+vary from the size of the order of 10'14 m of the
+tiny nucleus of an atom to the size of the order
+of 1026 m of the extent of the observable universe.
+Table 2.3 gives the range and order of lengths
+and sizes of some of these objects.
+
+We also use certain special length units for
+short and large lengths. These are
+
+1 fermi = 1 f= 10'15 m
+1 angstrom = 1 A = 10'10 m
+1 astronomical unit = 1 AU (average distance
+of the Sun from the Earth)
+= 1.496x 1011 m
+
+1 light year = 1 ly= 9.46 x 1015 m (distance
+that light travels with velocity of
+3 x 108 m S'1 in 1 year)
+1 parsec = 3.08 x 1016 m (Parsec is the
+distance at which average radius of earth’s orbit
+subtends an angle of 1 arc second)

@@ -1,0 +1,59 @@
+Horizontal range of a projectile
+
+The horizontal distance travelled by a projectile
+from its initial position (x = y = 0) to the position
+where it passes y = 0 during its fall is called the
+horizontal range, R. It is the distance travelled
+during the time of ﬂight Tf . Therefore, the range
+R is
+R = (we cos 60) (1})
+=(vo cos 00) (2 v0 sin 60)/g
+
+2 .
+_ v0 s1n 260
+
+Or, R - (4.43a)
+
+9
+
+Equation (4.43a) shows that for a given
+projection velocity v0, R is maximum when sin
+2190 is maximum, i.e., when 90 = 45°.
+
+The maximum horizontal range is, therefore,
+
+Rm = — (4.43b)
+
+Example 4. 7 Galileo. in his book Two new
+sciences. stated that “for elevations which
+
+exceed or fall short of 45" by equal
+amounts, the ranges are equal". Prove this
+statement.
+
+ 
+
+Answer For a projectile launched with velocity
+V" at an angle 60 , the range is given by
+
+2 .
+vo $111260
+
+9
+Now, for angles, (45° + a) and ( 45°— a), 290 is
+(90° + 205) and ( 90° — 2a) , respectively. The
+values of sin (90° + 2a) and sin (90° — 2a) are
+the same, equal to that of cos 205. Therefore,
+ranges are equal for elevations which exceed or
+fall short of 45° by equal amounts at. 4
+
+R:
+
+P Example 4.8 A hiker stands on the edge
+of a cliff 490 m above the ground and
+throws a stone horizontally with an initial
+
+speed of 15 m s 1. Neglecting air resistance.
+find the time taken by the stone to reach
+the ground, and the speed with which it
+hits the ground. (Take g = 9.8 In 5‘2).

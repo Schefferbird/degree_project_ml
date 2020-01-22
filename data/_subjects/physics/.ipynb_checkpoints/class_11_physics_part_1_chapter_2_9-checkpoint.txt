@@ -1,0 +1,33 @@
+When the relative error is expressed in per
+cent, it is called the percentage error (8a).
+
+Thus, Percentage error
+
+8a=(Aqm /amWJX10ﬁé (210)
+
+an
+
+Let us now consider an example.
+
+Example 2.6 Two clocks are being tested
+against a standard clock located in a
+national laboratory. At 12:00:00 noon by
+the standard clock. the readings of the two
+clocks are :
+
+Clock 1 Clock 2
+
+Monday 12:00:05 10: 15:06
+Tuesday 12:01:15 10:14:59
+
+Wednesday 11:59:08 10: 15: 18
+Thursday 12:01 :50 10: 15:07
+Friday 11:59: 15 10: 14:53
+Saturday 12:01:30 10:15:24
+Sunday 12:01:19 10:15:11
+
+If you are doing an experiment that requires
+precision time interval measurements. which
+of the two clocks will you prefer ‘?
+
+ 

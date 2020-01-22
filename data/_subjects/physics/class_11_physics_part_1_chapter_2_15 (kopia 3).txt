@@ -1,0 +1,53 @@
+2.8 DIMENSIONS OF PHYSICAL QUANTITIES
+
+The nature of a physical quantity is described
+by its dimensions. All the physical quantities
+represented by derived units can be expressed
+in terms of some combination of seven
+fundamental or base quantities. We shall call
+these base quantities as the seven dimensions
+of the physical world, which are denoted with
+
+square brackets [ ]. Thus, length has the
+dimension [L], mass [M], time [T], electric current
+[A], thermodynamic temperature [K], luminous
+intensity [cd], and amount of substance [mol].
+The dimensions of a physical quantity are the
+powers (or exponents) to which the base
+quantities are raised to represent that
+quantity. Note that using the square brackets
+[ ] round a quantity means that we are dealing
+with ‘the dimensions of’ the quantity.
+
+In mechanics, all the physical quantities can
+be written in terms of the dimensions [L], [M]
+and [T]. For example, the volume occupied by
+an object is expressed as the product of length,
+breadth and height, or three lengths. Hence the
+dimensions of volume are [L] X [L] X [L] = [L]3 = [L3].
+As the volume is independent of mass and time,
+it is said to possess zero dimension in mass [M°],
+zero dimension in time [T°] and three
+dimensions in length.
+
+Similarly, force, as the product of mass and
+acceleration, can be expressed as
+Force = mass X acceleration
+
+= mass X (length)/(time)2
+
+The dimensions of force are [M] [L] / [T]2 =
+
+[M L T2]. Thus, the force has one dimension in
+mass, one dimension in length, and —2
+dimensions in time. The dimensions in all other
+base quantities are zero.
+
+Note that in this type of representation, the
+magnitudes are not considered. It is the quality
+of the type of the physical quantity that enters.
+Thus, a change in velocity, initial velocity,
+average velocity, ﬁnal velocity, and speed are
+all equivalent in this context. Since all these
+quantities can be expressed as length/time,
+their dimensions are [L]/ [T] or [L "1“].

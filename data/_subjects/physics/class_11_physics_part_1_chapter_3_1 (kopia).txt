@@ -1,0 +1,19 @@
+Path length
+
+Consider the motion of a car along a straight
+line. We choose the x-axis such that it coincides
+with the path of the car’s motion and origin of
+the axis as the point from where the car started
+moving, i.e. the carwas at x= O at t= 0 (Fig. 3.1).
+Let P, Q and R represent the positions of the car
+at different instants of time. Consider two cases
+of motion. In the first case, the car moves from
+O to P. Then the distance moved by the car is
+OP = +360 m. This distance is called the path
+length traversed by the car. In the second
+case, the car moves from O to P and then moves
+back from P to Q. During this course of motion,
+the path length traversed is OP + PQ = + 360 m
++ (+120 m) = + 480 m. Path length is a scalar
+quantity — a quantity that has a magnitude
+only and no direction (see Chapter 4).

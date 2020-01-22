@@ -1,0 +1,36 @@
+3.3 AVERAGE VELOCITY AND AVERAGE SPEED
+
+When an object is in motion, its position
+changes with time. But how fast is the position
+changing with time and in what direction? To
+describe this, we define the quantity average
+velocity. Average velocity is defined as the
+change in position or displacement (Ax) divided
+by the time intervals (At), in which the
+displacement occurs :
+where x2 and x1 are the positions of the object
+at time t2and t1, respectively. Here the bar over
+the symbol for velocity is a standard notation
+used to indicate an average quantity. The SI
+unit for velocity is m / s or In 8—1, although km h‘1
+is used in many everyday applications.
+
+Like displacement, average velocity is also a
+vector quantity. But as explained earlier, for
+motion in a straight line, the directional aspect
+of the vector can be taken care of by + and —
+signs and we do not have to use the vector
+notation for velocity in this chapter.
+
+Consider the motion of the car in Fig. 3.3. The
+portion of the x—t graph between t= O s and t= 8
+s is blown up and shown in Fig. 3.4. As seen
+from the plot, the average velocity of the car
+betweentime t= 5 s and t= 7 sis:
+x2 —x1 (27.4 — 10.0)m
+
+t2 — t1 (7 — 5) s
+Geometrically, this is the slope of the straight
+line P1P2 connecting the initial position P1 to
+the final position P2 as shown in Fig. 3.4.
+

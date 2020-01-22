@@ -1,0 +1,9 @@
+system of electron carriers called electron transport system (ETS) located on the
+inner membrane of the mitochondria. The electrons, as they move through the
+system, release enough energy that are trapped to synthesise ATP. This is called
+oxidative phosphorylation. In this process 02 is the ultimate acceptor of electrons
+and it gets reduced to water.
+
+The respiratory pathway is an amphibolic pathway as it involves both anabolism
+and catabolism. The respiratory quotient depends upon the type of respiratory
+substance used during respiration.

@@ -1,0 +1,36 @@
+(a) Error of a sum or a difference
+
+Suppose two physical quantities A and B have
+measured values A i AA, B i AB respectively
+where AA and AB are their absolute errors. We
+wish to find the error AZ in the sum
+
+Z = A + B.
+We have by addition, Z i AZ
+
+= (AiAA) + (BiAB).
+The maximum possible error in Z
+
+AZ 2 AA + AB
+For the difference Z = A — B, we have
+
+ZiAZ= (AiAA)—(BiAB)
+
+=(A—B)iAAiAB
+
+or, i AZ = i AA i AB
+The maximum value of the error AZ is again
+AA + AB.
+
+Hence the rule : When two quantities are
+added or subtracted, the absolute error in the
+ﬁnal result is the sum of the absolute errors
+in the individual quantities.
+
+Example 2.8 The temperatures of two
+
+bodies measured by a thennometer are
+t1: 20 0C i 0.5 0C and t2 = 50 0C i 0.5 0C.
+
+Calculate the temperature difference and
+the error theirin.

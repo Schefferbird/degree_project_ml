@@ -1,0 +1,26 @@
+Ats, respectively. The direction of the average
+velocity V is shown in figures (a), (b) and (c) for
+three decreasing values of At, i.e. At1,At2, and A133,
+(At1 > At2 > Ats). As At —> 0, Ar —> O
+and is along the tangent to the path [Fig 4. 13(d)].
+Therefore, the direction of velocity at any point
+on the path of an object is tangential to the
+path at that point and is in the direction of
+motion.
+
+We can express v in a component form :
+
+. AX: AU:
+2 hm —1+—J (429)
+
+At—>0 At At
+
+: AX A. Ay
+= 1 lim —+ J lim —
+At—>0 At At—>O At
+
+Adx Ad A A
+Or, v=i— —y=vxi+vyj.
+
+where vx = —,v = — (4.30a)
+

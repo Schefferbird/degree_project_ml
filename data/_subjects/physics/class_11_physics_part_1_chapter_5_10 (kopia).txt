@@ -1,0 +1,28 @@
+An important example of the application of the
+law of conservation of momentum is the collision
+of two bodies. Consider two bodies A and B, with
+initial momenta p A and p3. The bodies collide,
+get apart, with final momenta p’A and p’B
+respectively. By the Second Law
+
+FABAt 2 PA — PA and
+
+FBAAt = P’B — PB
+(where we have taken a common interval of time
+
+for both forces i.e. the time for which the two
+bodies are in contact.)
+
+Since F AB = —FBA by the third law,
+p’A — pA = -(pia — p3)
+
+Le. P’A + P’B 2 PA + PB (5'9)
+which shows that the total final momentum of
+the isolated system equals its initial momentum.
+Notice that this is true whether the collision is
+elastic or inelastic. In elastic collisions, there is
+a second condition that the total initial kinetic
+
+energy of the system equals the total final kinetic
+energy (See Chapter 6).
+

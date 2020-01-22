@@ -1,0 +1,41 @@
+4.2.1 Position and Displacement Vectors
+
+To describe the position of an object moving in
+a plane, we need to choose a convenient point,
+say 0 as origin. Let P and P’ be the positions of
+the object at time tand t’, respectively [Fig. 4. 1(a)].
+We join 0 and P by a straight line. Then, OP is
+the position vector of the object at time t. An
+arrow is marked at the head of this line. It is
+represented by a symbol r, i.e. OP = r. Point P’ is
+
+represented by another position vector, OP’
+denoted by r’. The length of the vector r
+represents the magnitude of the vector and its
+direction is the direction in which P lies as seen
+from 0. If the object moves from P to P’, the
+vector PP’ (with tail at P and tip at P’) is called
+the displacement vector corresponding to
+motion from point P (at time t) to point P’ (at time t’).
+
+(b)
+
+Fig. 4.1 [a] Position and displacement vectors.
+(b) Displacement vector P9 and different
+
+courses of motion.
+
+It is important to note that displacement
+vector is the straight line joining the initial and
+final positions and does not depend on the actual
+path undertaken by the object between the two
+positions. For example, in Fig. 4.1(b), given the
+initial and final positions as P and Q, the
+displacement vector is the same PQ for different
+paths of journey, say PABCQ, PDQ, and PBEFQ.
+Therefore, the magnitude of displacement is
+either less or equal to the path length of an
+object between two points. This fact was
+emphasised in the previous chapter also while
+discussing motion along a straight line.
+

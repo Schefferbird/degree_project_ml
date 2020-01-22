@@ -1,0 +1,48 @@
+Answer The range of variation over the seven
+days of observations is 162 s for clock 1, and
+3 1 s for clock 2. The average reading of clock 1
+is much closer to the standard time than the
+average reading of clock 2. The important point
+is that a clock’s zero error is not as significant
+for precision work as its variation, because a
+‘zero-error’ can always be easily corrected.
+Hence clock 2 is to be preferred to clock 1. 4
+
+Example 2.7 We measure the period of
+oscillation of a simple pendulum. In
+successive measurements. the readings
+
+turn out to be 2.63 s. 2.56 s. 2.42 s. 2.71s
+and 2.80 5. Calculate the absolute errors.
+relative error or percentage error.
+
+ 
+
+Answer The mean period of oscillation of the
+pendulum
+
+
+As the periods are measured to a resolution
+of 0.01 s, all times are to the second decimal; it
+is proper to put this mean period also to the
+second decimal.
+
+The errors in the measurements are
+
+2.63s—2.62s= 0.01 s
+2.56 s — 2.62 s = — 0.06 s
+2.42 s — 2.62 s = — 0.20 s
+2.71 s—2.62s= 0.09s
+2.80s—2.62s= 0.18s
+
+Note that the errors have the same units as the
+quantity to be measured.
+
+The arithmetic mean of all the absolute errors
+(for arithmetic mean, we take only the
+magnitudes) is
+
+ATmem = [(0.01+ 0.06+0.20+0.09+0.18)s]/5
+= 0.54 s/5
+= 0.1 1 s
+

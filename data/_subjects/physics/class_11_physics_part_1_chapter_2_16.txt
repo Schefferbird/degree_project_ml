@@ -1,0 +1,23 @@
+quantity. Thus, the dimensional equations are
+the equations, which represent the dimensions
+of a physical quantity in terms of the base
+quantities. For example, the dimensional
+equations of volume [V], speed [1)], force [F] and
+mass density [p] may be expressed as
+
+[V] = [M0 L310]
+[v1 = [M0 LTI]
+[F] = [M LTZ]
+
+[p1 = [M L-3 T0]
+
+The dimensional equation can be obtained
+from the equation representing the relations
+between the physical quantities. The
+dimensional formulae of a large number and
+wide variety of physical quantities, derived from
+the equations representing the relationships
+among other physical quantities and expressed
+in terms of base quantities are given in
+Appendix 9 for your guidance and ready
+reference.

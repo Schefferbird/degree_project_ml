@@ -1,0 +1,18 @@
+An interesting feature of a velocity-time graph
+for any moving object is that the area under the
+curve represents the displacement over a
+given time interval. A general proof of this
+
+
+Fig. 3.10 Velocity—time graph for motions with
+constant acceleration (a) Motion in positive
+direction with positive acceleration,
+(b) Motion in positive direction with
+negative acceleration, (c) Motion in negative
+direction with negative acceleration,
+(d) Motion of an object with negative
+acceleration that changes direction at time
+
+t1. Between times 0 to t1, its moves in
+positive x — direction and between t1 and
+t2 it moves in the opposite direction.

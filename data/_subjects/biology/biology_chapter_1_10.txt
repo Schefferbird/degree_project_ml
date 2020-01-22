@@ -1,0 +1,12 @@
+decreasing. Lower the taxa, more are the characteristics that the members
+Within the taxon share. Higher the category, greater is the difﬁculty of
+determining the relationship to other taxa at the same level. Hence, the
+problem of classiﬁcation becomes more complex.
+Table 1.1 indicates the taxonomic categories to Which some common
+organisms like houseﬂy, man, mango and Wheat belong.
+TABLE 1.1 Organisms with their Taxonomic Categories
+Common Biological Genus Family Order Class Phylum/
+Name Name Division Man Homo sapiens Homo Hominidae Primata Mammalia Chordata
+Houseﬂy Musca Musca Muscidae Diptera Insecta Arthropoda
+domestica Mango Mangéfera Manglfera Anacardiaceae Sapindales Dicotyledonae Angiospermae indica Wheat Triticum Triticum Poaceae Poales Monocotyledonae Angiospermae
+aestivum

@@ -1,0 +1,6 @@
+the connecting string is cut at this instant, the
+bob will execute a projectile motion with
+horizontal projection akin to a rock kicked
+horizontally from the edge of a cliff. Otherwise
+the bob will continue on its circular path and
+complete the revolution. 4

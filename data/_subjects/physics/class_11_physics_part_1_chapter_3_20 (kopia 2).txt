@@ -1,0 +1,6 @@
+3.26 Two stones are thrown up simultaneously from the edge of a cliff 200 m high with
+initial speeds of 15 m s*1 and 30 m s4. Verify that the graph shown in Fig. 3.27
+correctly represents the time variation of the relative position of the second stone
+with respect to the first. Neglect air resistance and assume that the stones do not
+rebound after hitting the ground. Take 9 = 10 m s”. Give the equations for the
+linear and curved parts of the plot.

@@ -1,0 +1,14 @@
+15.5 THE PRINCIPLE 0F SUPERPOSITION OF WAVES
+
+What happens when two wave pulses travelling
+in opposite directions cross each other
+(Fig. 15.9)? It turns out that wave pulses
+continue to retain their identities after they have
+crossed. However, during the time they overlap,
+the wave pattern is different from either of the
+pulses. Figure 15.9 shows the situation when
+two pulses of equal and opposite shapes move
+towards each other. When the pulses overlap,
+the resultant displacement is the algebraic sum
+of the displacement due to each pulse. This is
+known as the principle of superposition of waves.

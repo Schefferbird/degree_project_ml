@@ -1,0 +1,21 @@
+POINTS TO PONDER
+
+1. Force is not always in the direction of motion. Depending on the situation. F
+may be along v. opposite to v. nomlal to v or may make some other angle with
+v. In every case. it is parallel to acceleration.
+
+2. va = 0 at an instant, i.e. ifa body is momentarily at rest. it does not mean that
+force or acceleration are necessarily zero at that instant. For example. when a
+ball thrown upward reaches its maximum height. v = 0 but the force continues
+to be its weight mg and the acceleration is not zero but g.
+
+3. Force on a body at a given time is determined by the situation at the location of
+the body at that time. Force is not 'carried' by the body from its earlier history of
+motion. The moment after a stone is released out of an accelerated train. there is
+no horizontal force (or acceleration) on the stone, if the effects of the surrounding
+air are neglected. The stone then has only the vertical force of gravity.
+
+4. In the second law of motion F = m a. F stands for the net force due to all
+material agencies external to the body. a is the effect of the force. ma should
+not be regarded as yet another force. besides F.
+

@@ -1,0 +1,55 @@
+> Example 6.9 Consider Example 6.8 taking
+the coefﬁcient of friction. u. to be 0.5 and
+calculate the maximum compression of the
+spring.
+
+ 
+
+Answer In presence of friction, both the spring
+force and the frictional force act so as to oppose
+the compression of the spring as shown in
+Fig. 6.9.
+
+We invoke the work-energy theorem, rather
+than the conservation of mechanical energy.
+The change in kinetic energy is
+
+ 
+
+l equilibrium
+my position
+
+Fig. 6.9 The forces acting on the car.
+
+AK =Kf—K.=0—lmu2
+. 2
+
+The work done by the net force is
+
+W=—%kx,2n—/ngxm
+
+Equating we have
+
+émv2=ékxi+ymgxm
+
+Now umg = 0.5 x 103x 10 = 5 x 103N (taking
+9 =10.0 mS’Z). After rearranging the above
+equation we obtain the following quadratic
+equation in the unknown xm.
+
+kxfn+2ymgxm—mv2=0
+
+—u m g + [u2m2g2 + m k v2]1/2
+m k
+
+where we take the positive square root since
+xm is positive. Putting in numerical values we
+
+which, as expected, is less than the result in
+Example 6.8.
+
+If the two forces on the body consist of a
+conservative force FC and a non-conservative
+force FnC , the conservation of mechanical energy
+formula will have to be modified. By the WE
+theorem

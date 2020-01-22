@@ -1,0 +1,32 @@
+to 103 m s‘1 so that it can have a high
+probability of interacting with isotope 2SSU
+and causing it to fission. Show that a
+neutron can lose most of its kinetic energy
+in an elastic collision with a light nuclei
+like deuten‘um or carbon which has a mass
+of only a few times the neutron mass. The
+material making up the light nuclei. usually
+heavy water (D20) or graphite. is called a
+moderator.
+
+
+One can also verify this result by substituting
+from Eq. (6.28).
+
+For deuterium m2 = 2m1 and we obtain
+f1 = 1/9 whilef2 = 8/9. Almost 90% of the
+neutron’s energy is transferred to deuterium. For
+carbon j"1 = 71.6% and f2 = 28.4%. In practice,
+however, this number is smaller since head-on
+collisions are rare. 4
+
+If the initial velocities and final velocities of
+both the bodies are along the same straight line,
+then it is called a one-dimensional collision, or
+head-on collision. In the case of small spherical
+bodies, this is possible if the direction of travel
+of body 1 passes through the centre of body 2
+which is at rest. In general, the collision is two-
+dimensional, where the initial velocities and the
+final velocities lie in a plane.
+

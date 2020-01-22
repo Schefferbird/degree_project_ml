@@ -1,0 +1,12 @@
+4.2 SCALARS AND VECTORS
+
+In physics, we can classify quantities as scalars or
+vectors. Basically, the difference is that a direction is
+associated with a vector but not with a scalar. A scalar
+quantity is a quantity with magnitude only. It is specified
+completely by a single number, along with the proper
+unit. Examples are : the distance between two points,
+mass of an object, the temperature of a body and the
+time at which a certain event happened. The rules for
+combining scalars are the rules of ordinary algebra.
+Scalars can be added, subtracted, multiplied and divided

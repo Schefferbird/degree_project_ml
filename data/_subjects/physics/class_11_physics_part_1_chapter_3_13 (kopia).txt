@@ -1,0 +1,18 @@
+b Example 3.9 Two parallel rail tracks run
+north—south. Train A moves north with a
+speed of 54 km h". and train B moves south
+with a speed of 90 km h". What is the
+(a) velocity of B with respect to A ?.
+
+(b) velocity of ground with respect to B ?,
+
+and
+
+(c) velocity of a monkey running on the
+roof of the train A against its motion
+(with a velocity of 18 km h" with
+respect to the train A) as observed by
+a man standing on the ground ?
+
+Answer Choose the positive direction of x-axis
+to be from south to north. Then,

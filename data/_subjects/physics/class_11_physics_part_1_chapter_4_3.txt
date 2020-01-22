@@ -1,0 +1,38 @@
+arranged head to tail, this graphical method is
+called the head-to-tail method. The two vectors
+and their resultant form three sides of a triangle,
+so this method is also known as triangle method
+of vector addition. If we find the resultant of
+B + A as in Fig. 4.4(c), the same vector R is
+obtained. Thus, vector addition is commutative:
+
+A+B=B+A (4.1)
+
+The addition of vectors also obeys the associative
+law as illustrated in Fig. 4.4(d). The result of
+adding vectors A and B first and then adding
+vector C is the same as the result of adding B
+and C first and then adding vector A :
+
+(A+B)+C=A+(B+C) (4.2)
+
+What is the result of adding two equal and
+opposite vectors ? Consider two vectors A and
+—A shown in Fig. 4.3(b). Their sum is A + (—A).
+Since the magnitudes of the two vectors are the
+same, but the directions are opposite, the
+resultant vector has zero magnitude and is
+represented by 0 called a null vector or a zero
+vector :
+
+A—A=0 |0|=O (4.3)
+Since the magnitude of a null vector is zero, its
+direction cannot be specified.
+
+The null vector also results when we multiply
+a vector A by the number zero. The main
+properties of 0 are :
+
+A+0=A
+7&0=0
+OA=0 (4.4)

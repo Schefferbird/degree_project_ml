@@ -1,0 +1,50 @@
+3.5 ACCELERATION
+
+The velocity of an object, in general, changes
+during its course of motion. How to describe this
+change? Should it be described as the rate of
+change in velocity with distance or with time ?
+This was a problem even in Galileo’s time. It was
+first thought that this change could be described
+by the rate of change of velocity with distance.
+But, through his studies of motion of freely falling
+objects and motion of objects on an inclined
+plane, Galileo concluded that the rate of change
+of velocity with time is a constant of motion for
+all objects in free fall. On the other hand, the
+change in velocity with distance is not constant
+— it decreases with the increasing distance of fall.
+
+This led to the concept of acceleration as the rate
+of change of velocity with time.
+
+The average acceleration 6 over a time
+
+interval is defined as the change of velocity
+divided by the time interval :
+
+
+where v2 and D1 are the instantaneous velocities
+or simply velocities at time t2 and t1 . It is the
+average change of velocity per unit time. The SI
+unit of acceleration is m S'2 .
+
+On a plot of velocity versus time, the average
+acceleration is the slope of the straight line
+connecting the points corresponding to (v2, t2)
+and (v1, t1). The average acceleration
+for velocity-time graph shown in Fig. 3.7 for
+different time intervals 0 s - 10 s, 10 s — 18 s,
+and 18s—20sare:
+
+Instantaneous acceleration is defined in the same
+way as the instantaneous velocity :
+, Av dv
+
+a _ lino At _ dt (3'5)
+The acceleration at an instant is the slope of
+the tangent to the v—t curve at that instant. For
+the v—t curve shown in Fig. 3.7, we can obtain
+acceleration at every instant of time. The
+
+resulting a— tcurve is shown in Fig. 3.8. We see

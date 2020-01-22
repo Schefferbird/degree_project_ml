@@ -1,0 +1,37 @@
+Pressure and Wind
+
+The velocity and direction of the wind are the
+net result of the wind generating forces. The
+winds in the upper atmosphere, 2 - 3 km above
+the surface, are free from frictional effect of the
+surface and are controlled mainly by the
+pressure gradient and the Coriolis force. When
+isobars are straight and when there is no
+friction, the pressure gradient force is balanced
+by the Coriolis force and the resultant wind
+blows parallel to the isobar. This wind is known
+as the geostrophic wind (Figure 10.4).
+
+P C - Coriolis force
+H V — Geostrophic wind
+PH — Horizontal pressure
+
+The wind circulation around a low is
+called cyclonic circulation. Around a high
+it is called anti cyclonic circulation. The
+direction of winds around such systems
+changes according to their location in
+different hemispheres (Table 10.2).
+
+The wind circulation at the earth’s surface
+around low and high on many occasions is
+closely related to the wind circulation at higher
+level. Generally, over low pressure area the air
+will converge and rise. Over high pressure area
+the air will subside from above and diverge at
+the surface (Figure 1 0.5). Apart from
+convergence, some eddies, convection
+currents, orographic uplift and uplift along
+fronts cause the rising of air, which is essential
+for the formation of clouds and precipitation.
+

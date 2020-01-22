@@ -1,0 +1,28 @@
+5.4 NEWTON'S FIRST LAW OF MOTION
+
+Galileo’s simple, but revolutionary ideas
+dethroned Aristotelian mechanics. A new
+mechanics had to be developed. This task was
+from the transmission of vibrations of water particles.
+
+The state of rest or uniform linear motion both
+imply zero acceleration. The first law of motion can,
+therefore, be simply expressed as:
+
+If the net external force on a body is zero, its
+acceleration is zero. Acceleration can be non
+zero only if there is a net external force on
+the body.
+
+Two kinds of situations are encountered in the
+application of this law in practice. In some
+examples, we know that the net external force
+on the object is zero. In that case we can
+conclude that the acceleration of the object is
+zero. For example, a spaceship out in
+interstellar space, far from all other objects and
+with all its rockets turned off, has no net
+external force acting on it. Its acceleration,
+according to the first law, must be zero. If it is
+in motion, it must continue to move with a
+uniform velocity.

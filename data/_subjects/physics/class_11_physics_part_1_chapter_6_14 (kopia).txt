@@ -1,0 +1,34 @@
+6.10.6 The Principle of Conservation of
+Energy
+
+We have seen that the total mechanical energy
+of the system is conserved if the forces doing work
+on it are conservative. If some of the forces
+involved are non-conservative, part of the
+mechanical energy may get transformed into
+other forms such as heat, light and sound.
+However, the total energy of an isolated system
+does not change, as long as one accounts for all
+forms of energy. Energy may be transformed from
+one form to another but the total energy of an
+isolated system remains constant. Energy can
+neither be created, nor destroyed.
+
+Since the universe as a whole may be viewed
+as an isolated system, the total energy of the
+universe is constant. If one part of the universe
+loses energy, another part must gain an equal
+amount of energy.
+
+The principle of conservation of energy cannot
+be proved. However, no violation of this principle
+has been observed. The concept of conservation
+and transformation of energy into various forms
+links together various branches of physics,
+chemistry and life sciences. It provides a
+unifying, enduring element in our scientific
+pursuits. From engineering point of view all
+electronic, communication and mechanical
+devices rely on some forms of energy
+transformation.
+

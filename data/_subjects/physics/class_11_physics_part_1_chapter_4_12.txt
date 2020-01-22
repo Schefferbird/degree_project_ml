@@ -1,0 +1,20 @@
+This relative velocity vector as shown in
+Fig. 4.16 makes an angle 0 with the vertical. It is
+given by
+
+vb 12
+tan6=—=—=0.343
+Dr 35
+On 0219°
+
+Therefore, the woman should hold her
+umbrella at an angle of about 19° with the
+vertical towards the west.
+
+Note carefully the difference between this
+Example and the Example 4. 1. In Example 4. 1,
+the boy experiences the resultant (vector
+sum) of two velocities while in this example,
+the woman experiences the velocity of rain
+relative to the bicycle (the vector difference
+of the two velocities). 4

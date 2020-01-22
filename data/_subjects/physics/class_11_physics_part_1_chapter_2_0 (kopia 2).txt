@@ -1,0 +1,24 @@
+2.2 THE INTERNATIONAL SYSTEM OF UNITS
+In earlier time scientists of different countries were using
+different systems of units for measurement. Three such
+systems, the CGS, the FPS (or British) system and the MKS
+system were in use extensively till recently.
+
+The base units for length, mass and time in these systems
+were as follows :
+0 In CGS system they were centimetre, gram and second
+
+respectively.
+
+0 In FPS system they were foot, pound and second
+respectively.
+
+0 In MKS system they were metre, kilogram and second
+respectively.
+
+The system of units which is at present internationally
+accepted for measurement is the Systeme Internationale
+d’ Unites (French for International System of Units),
+abbreviated as SI. The SI, with standard scheme of symbols,
+units and abbreviations, was developed and recommended
+by General Conference on Weights and Measures in 197 1 for

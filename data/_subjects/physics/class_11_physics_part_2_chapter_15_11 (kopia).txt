@@ -1,0 +1,22 @@
+15.6 REFLECTION OF WAVES
+
+So far we considered waves
+propagating in an unbounded
+medium. What happens if a
+pulse or a wave meets a
+
+: "
+is the case of destructive “mm
+reﬂected. The phenomenon of echo is an example
+of reﬂection by a rigid boundary. If the boundary
+is not completely rigid or is an interface between
+two different elastic media, the situation is some
+what complicated. A part of the incident wave is
+reﬂected and a part is transmitted into the
+second medium. If a wave is incident obliquely
+on the boundary between two different media
+the transmitted wave is called the refracted
+wave. The incident and refracted waves obey
+Snell’s law of refraction, and the incident and
+reflected waves obey the usual laws of
+reﬂection.

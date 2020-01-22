@@ -1,0 +1,36 @@
+2.3.1 Measurement of Large Distances
+
+Large distances such as the distance of a planet
+or a star from the earth cannot be measured
+directly with a metre scale. An important method
+in such cases is the parallax method.
+
+When you hold a pencil in front of you against
+some specific point on the background (a wall)
+and look at the pencil first through your left eye
+A (closing the right eye) and then look at the
+pencil through your right eye B (closing the left
+eye), you would notice that the position of the
+pencil seems to change with respect to the point
+on the wall. This is called parallax. The
+distance between the two points of observation
+is called the basis. In this example, the basis is
+the distance between the eyes.
+
+To measure the distance D of a far away
+planet S by the parallax method, we observe it
+from two different positions (observatories) A and
+B on the Earth, separated by distance AB = b
+at the same time as shown in Fig. 2.2. We
+measure the angle between the two directions
+along which the planet is viewed at these two
+points. The AASB in Fig. 2.2 represented by
+symbol 0 is called the parallax angle or
+parallactic angle.
+
+As the planet is very far away, 5 << 1, and
+
+therefore, 0 is very small. Then we
+
+approximately take AB as an arc of length b of a
+circle with centre at S and the distance D as

@@ -1,0 +1,8 @@
+closer to the true value) but less precision (its
+resolution is only 0.1 cm), while the
+second measurement is less accurate but
+more precise. Thus every measurement is
+approximate due to errors in measurement. In
+general, the errors in measurement can be
+broadly classified as (a) systematic errors and
+(b) random errors.

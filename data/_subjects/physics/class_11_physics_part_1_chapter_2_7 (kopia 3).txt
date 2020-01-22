@@ -1,0 +1,4 @@
+Random errors
+
+The random errors are those errors, which occur
+irregularly and hence are random with respect

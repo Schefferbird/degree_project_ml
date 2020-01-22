@@ -1,0 +1,16 @@
+Finally, remember that intermediate results in
+a multi-step computation should be
+calculated to one more signiﬁcant ﬁgure in
+every measurement than the number of
+digits in the least precise measurement.
+These should be justified by the data and then
+the arithmetic operations may be carried out;
+otherwise rounding errors can build up. For
+example, the reciprocal of 9.58, calculated (after
+rounding off) to the same number of signiﬁcant
+figures (three) is 0.104, but the reciprocal of
+0.104 calculated to three significant figures is
+9.62. However, if we had written 1 / 9.58 = 0.1044
+and then taken the reciprocal to three significant
+figures, we would have retrieved the original
+value of 9.58.

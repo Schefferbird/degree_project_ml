@@ -1,0 +1,28 @@
+(b) Imperfection in experimental technique
+or procedure To determine the temperature
+of a human body, a thermometer placed
+under the armpit will always give a
+temperature lower than the actual value of
+the body temperature. Other external
+conditions (such as changes in temperature,
+humidity, wind velocity, etc.) during the
+experiment may systematically affect the
+measurement.
+
+(c) Personal errors that arise due to an
+individual’s bias, lack of proper setting of
+the apparatus or individual’s carelessness
+in taking observations without observing
+proper precautions, etc. For example, if you,
+by habit, always hold your head a bit too far
+to the right while reading the position of a
+needle on the scale, you will introduce an
+error due to parallax.
+
+Systematic errors can be minimised by
+improving experimental techniques, selecting
+better instruments and removing personal bias
+as far as possible. For a given set-up, these
+errors may be estimated to a certain extent and
+the necessary corrections may be applied to the
+readings.

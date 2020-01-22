@@ -1,0 +1,24 @@
+To measure a very small size, like that of a
+molecule (10'8 m to 10'10 m), we have to adopt
+special methods. We cannot use a screw gauge
+or similar instruments. Even a microscope has
+certain limitations. An optical microscope uses
+visible light to ‘look’ at the system under
+investigation. As light has wave like features,
+the resolution to which an optical microscope
+can be used is the wavelength of light (A detailed
+explanation can be found in the Class XII
+Physics textbook). For visible light the range of
+wavelengths is from about 4000 A to 7000 A
+(1 angstrom = 1 A = 10'10 m). Hence an optical
+microscope cannot resolve particles with sizes
+smaller than this. Instead of visible light, we can
+use an electron beam. Electron beams can be
+focussed by properly designed electric and
+magnetic fields. The resolution of such an
+electron microscope is limited finally by the fact
+that electrons can also behave as waves ! (You
+will learn more about this in class XII). The
+wavelength of an electron can be as small as a
+fraction of an angstrom. Such electron
+microscopes with a resolution of 0.6 A have been

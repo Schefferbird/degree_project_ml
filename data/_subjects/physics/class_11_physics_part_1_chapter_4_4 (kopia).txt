@@ -1,0 +1,32 @@
+Example 4.1 Rain is falling vertically with
+a speed of 35 m 5‘1. Winds starts blowing
+after sometime with a speed of 12 m S'1 in
+east to west direction. In which direction
+should a boy waiting at a bus stop hold
+his umbrella ‘?
+
+ 
+Answer The velocity of the rain and the wind
+are represented by the vectors vr and vw in Fig.
+4.7 and are in the direction specified by the
+problem. Using the rule of vector addition, we
+see that the resultant of vr and vW is R as shown
+in the figure. The magnitude of R is
+
+R: vr2+vi =\/352+122 ms_1=37ms_1
+
+The direction 0 that R makes with the vertical
+is given by
+
+v 12
+
+tang: 2—20.343
+35
+
+Z—
+Or, a = tan'1(0.343) = 19°
+Therefore, the boy should hold his umbrella
+
+in the vertical plane at an angle of about 19°
+with the vertical towards the east. 4
+

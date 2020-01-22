@@ -1,0 +1,26 @@
+Tides based on Frequency
+
+Semi-diurnal tide : The most common tidal
+pattern, featuring two high tides and two low
+tides each day. The successive high or low tides
+are approximately of the same height.
+
+Diurnal tide :There is only one high tide and
+one low tide during each day. The successive
+high and low tides are approximately of the
+same height.
+
+Mixed tide :Tides having variations in height
+are known as mixed tides. These tides generally
+occur along the west coast of North America
+and on many islands of the Paciﬁc Ocean.
+
+Tides based on the Sun, Moon and the Earth
+Positions
+
+The height of rising water (high tide) varies
+appreciably depending upon the position of
+sun and moon with respect to the earth.
+Spring tides and neap tides come under this
+category.
+

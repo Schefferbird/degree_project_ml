@@ -1,0 +1,30 @@
+The work done by a conservative force such as
+gravity depends on the initial and final positions
+only. In the previous chapter we have worked
+on examples dealing with inclined planes. If an
+object of mass m is released from rest, from the
+top of a smooth (frictionless) inclined plane of
+height h, its speed at the bottom
+is 29h irrespective of the angle of inclination.
+
+Thus, at the bottom of the inclined plane it
+acquires a kinetic energy, mgh. If the work done
+or the kinetic energy did depend on other factors
+such as the velocity or the particular path taken
+by the object, the force would be called non-
+conservative.
+
+The dimensions of potential energy are
+[MLZT ’2] and the unit is joule (J), the same as
+kinetic energy or work. To reiterate, the change
+in potential energy, for a conservative force,
+AV is equal to the negative of the work done by
+the force
+
+AV = — FIX) Ax (6.9)
+
+In the example of the falling ball considered in
+this section we saw how potential energy was
+converted to kinetic energy. This hints at an
+important principle of conservation in mechanics,
+which we now proceed to examine.

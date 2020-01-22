@@ -1,0 +1,31 @@
+comes before reaction i.e action is the cause
+and reaction the effect. There is no cause-
+effect relation implied in the third law. The
+force on A by B and the force on B by A act
+at the same instant. By the same reasoning,
+any one of them may be called action and the
+other reaction.
+
+3. Action and reaction forces act on different
+bodies, not on the same body. Consider a pair
+of bodies A and B. According to the third law,
+
+F = — FBA (5.8)
+
+AB
+
+(force on A by B) = — (force on B by A)
+
+Thus if we are considering the motion of any
+one body (A or B), only one of the two forces is
+relevant. It is an error to add up the two forces
+and claim that the net force is zero.
+However, if you are considering the system
+of two bodies as a whole, F AB and FBA are
+internal forces of the system (A + B). They add
+up to give a null force. Internal forces in a
+body or a system of particles thus cancel away
+in pairs. This is an important fact that
+enables the second law to be applicable to a
+body or a system of particles (See Chapter 7).
+

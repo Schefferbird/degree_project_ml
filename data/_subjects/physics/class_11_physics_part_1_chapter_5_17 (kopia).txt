@@ -1,0 +1,25 @@
+(v) If necessary, follow the same procedure for
+another choice of the system. In doing so, "'I R'
+employ Newton’s third law. That is, if in the I
+free-body diagram of A, the force on A due to
+B is shown as F, then in the free-body
+diagram of B, the force on B due to A should
+be shown as —F. 270 N
+The following example illustrates the above X gfigebgﬁilgfiarirnder
+procedure. 5 stem
+0.1 m 5'2 y
+F Example 5.12 See Fig. 5.15. A wooden Fig. 515
+
+block of mass 2 kg rests on a soft horizontal
+ﬂoor. When an iron cylinder of mass 25 kg
+is placed on top of the block. the ﬂoor yields
+steadily and the block and the cylinder
+together go down with an acceleration of
+0.1 m 5‘2. What is the action of the block
+on the ﬂoor (a) before and (b) after the ﬂoor
+yields ? Take 9 = 10 m 5‘2. Identify the
+action—reaction pairs in the problem.
+
+By the third law, the action of the system on
+the ﬂoor is equal to 267 .3 N vertically downward.
+

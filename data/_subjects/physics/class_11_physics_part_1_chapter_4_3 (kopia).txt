@@ -1,0 +1,38 @@
+What is the physical meaning of a zero vector?
+
+Consider the position and displacement vectors
+in a plane as shown in Fig. 4. 1(a). Now suppose
+that an object which is at P at time t, moves to
+P’ and then comes back to P. Then, what is its
+displacement? Since the initial and final
+positions coincide, the displacement is a “null
+vector”.
+
+Subtraction of vectors can be defined in terms
+of addition of vectors. We define the difference
+of two vectors A and B as the sum of two vectors
+A and —B :
+
+A— B = A + (—B) (4.5)
+
+It is shown in Fig 4.5. The vector —B is added to
+vectorA to get R2 = (A — B). The vector R1= A + B
+is also shown in the same figure for comparison.
+We can also use the parallelogram method to
+find the sum of two vectors. Suppose we have
+two vectors A and B. To add these vectors, we
+bring their tails to a common origin 0 as
+shown in Fig. 4.6(a). Then we draw a line from
+the head of A parallel to B and another line from
+the head of B parallel to A to complete a
+parallelogram OQSP. Now we join the point of
+the intersection of these two lines to the origin
+0. The resultant vector R is directed from the
+common origin 0 along the diagonal (OS) of the
+parallelogram [Fig. 4.6(b)]. In Fig.4.6(c), the
+triangle law is used to obtain the resultant of A
+and B and we see that the two methods yield the
+same result. Thus, the two methods are
+equivalent.
+
+

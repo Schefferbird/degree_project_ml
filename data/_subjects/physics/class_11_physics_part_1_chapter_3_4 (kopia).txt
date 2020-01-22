@@ -1,0 +1,13 @@
+Thus, in this case the average speed is not equal
+to the magnitude of the average velocity. This
+happens because the motion here involves
+change in direction so that the path length is
+greater than the magnitude of displacement.
+This shows that speed is, in general, greater
+than the magnitude of the velocity. 4
+
+If the car in Example 3.1 moves from O to P
+
+and comes back to O in the same time interval,
+average speed is 20 m/s but the average velocity
+is zero !

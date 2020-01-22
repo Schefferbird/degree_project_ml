@@ -1,0 +1,20 @@
+2.6.1 Absolute Error. Relative Error and
+Percentage Error
+
+(a) Suppose the values obtained in several
+measurements are al, a2, a3...., an. The
+arithmetic mean of these values is taken as
+the best possible value of the quantity under
+the given conditions of measurement as :
+
+mean = (a1+a2+a3+"'+an) / n (2.4)
+or,
+n
+am" 2 21:6” / ” (2.5)
+i:
+
+This is because, as explained earlier, it is
+reasonable to suppose that individual
+measurements are as likely to overestimate
+as to underestimate the true value of the
+quantity.

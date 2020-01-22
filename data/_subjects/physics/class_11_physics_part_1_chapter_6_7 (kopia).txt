@@ -1,0 +1,67 @@
+6.8 THE CONSERVATION 0F MECHANICAL ENERGY
+
+For simplicity we demonstrate this important
+principle for one-dimensional motion. Suppose
+that a body undergoes displacement Ax under
+the action of a conservative force F. Then from
+the WE theorem we have,
+
+AK = Rx) Ax
+If the force is conservative, the potential energy
+function V(x) can be defined such that
+
+— AV = Rx) Ax
+The above equations imply that
+
+AK + AV = O
+
+A(K + V) = O (6.10)
+
+which means that K + V, the sum of the kinetic
+and potential energies of the body is a constant.
+Over the whole path, xi to X], this means that
+K, + V(xi) = Kf + V(xf) (6.1 l)
+
+The quantity K +V(x), is called the total
+mechanical energy of the system. Individually
+the kinetic energy K and the potential energy
+V(x) may vary from point to point, but the sum
+is a constant. The aptness of the term
+‘conservative force’ is now clear.
+
+Let us consider some of the definitions of a
+conservative force.
+
+0 A force FIX) is conservative if it can be derived
+from a scalar quantity V(x) by the relation
+given by Eq. (6.9). The three-dimensional
+generalisation requires the use of a vector
+derivative, which is outside the scope of this
+book.
+
+0 The work done by the conservative force
+depends only on the end points. This can be
+seen from the relation,
+
+W = Kf— Ki = V(xi) — V(xf)
+which depends on the end points.
+
+0 A third definition states that the work done
+by this force in a closed path is zero. This is
+once again apparent from Eq. (6.1 1) since
+xi = xf_
+Thus, the principle of conservation of total
+
+mechanical energy can be stated as
+
+The total mechanical energy of a system is
+conserved if the forces, doing work on it, are
+conservative.
+
+The above discussion can be made more
+concrete by considering the example of the
+gravitational force once again and that of the
+spring force in the next section. Fig. 6.5 depicts
+a ball of mass m being dropped from a cliff of
+height H.
+

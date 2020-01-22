@@ -1,0 +1,46 @@
+not available explicitly. Another observation is that
+Newton’s second law for two or three dimensions
+is in vector form whereas the work-energy
+theorem is in scalar form. In the scalar form,
+information with respect to directions contained
+in Newton’s second law is not present.
+
+ 
+
+b Example 6.6 A block of mass m = 1 kg,
+moving on a horizontal surface with speed
+v1. = 2 In S‘1 enters a rough patch ranging
+from x= 0.10 m to x= 2.01 m. The retarding
+force Fr on the block in this range is inversely
+proportional to x over this range,
+
+—k
+F, =7 forO.1<x<2.01m
+
+= O forx< 0.1m and x> 2.01m
+
+where k = 0.5 J. What is the final kinetic
+energy and speed or. of the block as it
+crosses this patch ?
+
+ 
+
+Answer From Eq. (6.8a)
+
+2.01 —k
+Kf 2K. + I de
+x
+0.1
+
+=5mv3—k1n<x)la:$l
+
+zérnuf —kln(2.01/O.l)
+
+=2—O.5 In (20.1)
+22— 1.5 =O.5J
+
+vf =1’2Kf/m=lms_1
+
+Here, note that In is a symbol for the natural
+logarithm to the base 6 and not the logarithm to
+the base 10 [lnX=logeX= 2.3O3log10X]. 4

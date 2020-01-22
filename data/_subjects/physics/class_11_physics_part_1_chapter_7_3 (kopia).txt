@@ -1,0 +1,12 @@
+7.2 CENTRE OF MASS
+
+We shall first see what the centre of mass of a
+system of particles is and then discuss its
+significance. For simplicity we shall start with
+a two particle system. We shall take the line
+joining the two particles to be the x— axis.
+
+
+Let the distances of the two particles be x1
+and x2 respectively from some origin 0. Let m1
+and m2 be respectively the masses of the two

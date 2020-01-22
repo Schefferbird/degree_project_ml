@@ -1,0 +1,13 @@
+insignificant digit to be dropped (the
+underlined digit in this case) is more than
+5, and is left unchanged if the latter is less
+than 5. But what if the number is 2.745 in
+which the insignificant digit is 5. Here, the
+convention is that if the preceding digit is
+even, the insignificant digit is simply
+dropped and, if it is odd, the preceding digit
+is raised by 1. Then, the number 2.74§ rounded
+off to three significant figures becomes 2.74. On
+the other hand, the number 2.73_5_ rounded off
+to three significant ﬁgures becomes 2.74 since
+the preceding digit is odd.

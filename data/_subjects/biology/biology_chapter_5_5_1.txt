@@ -1,0 +1,29 @@
+As Mendel found the phenotype of the F1 heterozygote Tt to be exactly
+like the TT parent in appearance, he proposed that in a pair of dissimilar
+factors, one dominates the other (as in the F1) and hence is called the
+dominant factor while the other factor is recessive . In this case T (for
+tallness) is dominant over t (for dwarfness), that is recessive. He observed
+identical behaviour for all the other characters / trait-pairs that he studied.
+
+It is convenient (and logical) to use the capital and lower case of an
+alphabetical symbol to remember this concept of dominance and
+recessiveness. (Do not use T for tall and d for dwarf because you will
+ﬁnd it difﬁcult to remember whether T and d are alleles of the same
+gene / character or not). Alleles can be similar as in the case of homozygotes
+TT and tt or can be dissimilar as in the case of the heterozygote Tt. Since
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

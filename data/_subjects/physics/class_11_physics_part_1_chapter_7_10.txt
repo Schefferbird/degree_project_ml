@@ -1,0 +1,6 @@
+We shall now define another product of two
+vectors. This product is a vector. Two important
+quantities in the study of rotational motion,
+namely, moment of a force and angular
+momentum, are defined as vector products.
+

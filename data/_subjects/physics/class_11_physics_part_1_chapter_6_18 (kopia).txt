@@ -1,0 +1,48 @@
+SUMMARY
+
+i. The work-energy theorem states that the change in kinetic energy of a body is the work
+
+done by the net force on the body.
+K1" K. = W
+net
+
+2. A force is conservative if (i) work done by it on an object is path independent and
+depends only on the end points {xi. )3}. or (ii) the work done by the force is zero for an
+arbitrary closed path taken by the object such that it returns to its initial position.
+
+3. For a conservative force in one dimension, we may deﬁne a potential energy function V[x]
+such that
+dV
+F(x) 2 — (x)
+dx
+X,"
+or W-VJ.=JF(x)dx
+
+Xi
+
+4. The principle of conservation of mechanical energy states that the total mechanical
+energy of a body remains constant if the only forces that act on the body are conservative.
+
+5. The gravitational potential energy of a particle of mass m at a height x about the earth’s
+
+surface is
+
+le} =mgx
+
+where the variation of g with height is ignored.
+6. The elastic potential energy of a spring of force constant k and extension xis
+
+1 .
+V(X)=§kx2
+
+7. The scalar or dot product of two vectors A and B is written as AB and is a scalar
+quantity given by : AB = AB cos 0. where 6 is the angle between A and B. It can be
+positive. negative or zero depending upon the value of 6. The scalar product of two
+vectors can be interpreted as the product of magnitude of one vector and component
+of the other vector along the ﬁrst vector. For unit vectors :
+
+i-izj-jzli-lizl and i
+
+.jzj.ﬁ:ﬁ.i=o
+
+Scalar products obey the commutative and the distributive laws.

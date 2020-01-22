@@ -1,0 +1,48 @@
+6.9 THE POTENTIAL ENERGY OF A SPRING
+
+The spring force is an example of a variable force
+which is conservative. Fig. 6.7 shows a block
+attached to a spring and resting on a smooth
+horizontal surface. The other end of the spring
+is attached to a rigid wall. The spring is light
+and may be treated as massless. In an ideal
+spring, the spring force F5 is proportional to
+x where x is the displacement of the block from
+the equilibrium position. The displacement could
+be either positive [Fig. 6.7(b)] or negative
+[Fig. 6.7(c)]. This force law for the spring is called
+Hooke’s law and is mathematically stated as
+
+a=—m
+
+The constant k is called the spring constant. Its
+unit is N m’l. The spring is said to be stiff if k is
+large and soft if k is small.
+
+Suppose that we pull the block outwards as in
+Fig. 6.7 (b). Ifthe extension is xm, the work done by
+the spring force is
+
+This expression may also be obtained by
+considering the area of the triangle as in
+Fig. 6.7(d). Note that the work done by the
+external pulling force F is positive since it
+overcomes the spring force.
+
+Fig. 6.7 Illustration of the spring force with a block
+attached to the free end of the spring.
+(a) The spring force FS is zero when the
+displacement x from the equilibrium position
+is zero. (b) For the stretched spring x > 0
+and FS < 0 (c) For the compressed spring
+x < 0 and FS > 0.(d) The plot of FS versus x.
+The area of the shaded triangle represents
+the work done by the spring force. Due to the
+opposing signs of FS and x, this work done is
+
+negative, Ws : —er2n / 2.
+
+The same is true when the spring is
+compressed with a displacement xC (< O). The
+
+spring force does work WS = _ kxg /2 while the

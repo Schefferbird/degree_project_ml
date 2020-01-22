@@ -1,0 +1,40 @@
+3.7 RELATIVE VELOCITY
+
+
+You must be familiar with the experience of
+travelling in a train and being overtaken by
+another train moving in the same direction as
+you are. While that train must be travelling faster
+than you to be able to pass you, it does seem
+slower to you than it would be to someone
+standing on the ground and watching both the
+trains. In case both the trains have the same
+velocity with respect to the ground, then to you
+the other train would seem to be not moving at
+all. To understand such observations, we now
+introduce the concept of relative velocity.
+
+Consider two objects A and B moving
+uniformly with average velocities vA and DB in
+one dimension, say along x-axis. (Unless
+otherwise specified, the velocities mentioned in
+this chapter are measured with reference to the
+ground). Ifo (0) and xB (O) are positions of objects
+A and B, respectively at time t = 0, their positions
+xA (t) and xB (t) at time tare given by:
+
+xA (t) xA(O) + vA t (3.12a)
+xB (t) xB(O) + vBt (3.12b)
+
+Then, the displacement from object A to object
+B is given by
+
+xBA(t) = x8 (t) — xA (t)
+=1x,,(0)— x,(0)1+(uB— DA) t. (3.13)
+
+Equation (3.13) is easily interpreted. It tells us
+that as seen from object A, object B has a
+velocity vB— vA because the displacement from
+A to B changes steadily by the amount vB— DA in
+each unit of time. We say that the velocity of
+object B relative to objectA is vB — vA :

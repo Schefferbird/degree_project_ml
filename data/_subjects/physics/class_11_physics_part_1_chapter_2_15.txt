@@ -1,0 +1,23 @@
+For example, 12.9 g — 7.06 g, both speciﬁed to three
+signiﬁcant ﬁgures, cannot properly be evaluated
+as 5.84 g but only as 5.8 g, as uncertainties in
+subtraction or addition combine in a different
+fashion (smallest number of decimal places rather
+than the number of significant figures in any of
+the number added or subtracted).
+
+(3) The relative error of a value of number
+speciﬁed to signiﬁcant ﬁgures depends not
+only on 11 but also on the number itself.
+
+For example, the accuracy in measurement of
+mass 1.02 g is i 0.0 1 g whereas another
+measurement 9.89 g is also accurate to i 0.01 g.
+The relative error in 1.02 g is
+
+= (i 0.01/1.02) x 100 %
+
+= i 1%
+Similarly, the relative error in 9.89 g is
+
+= (i 0.01/9.89) x 100 %

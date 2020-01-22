@@ -1,0 +1,17 @@
+Note that when mole is used, the elementary
+entities must be specified. These entities
+may be atoms, molecules, ions, electrons,
+other particles or specified groups of such
+particles.
+
+We employ units for some physical quantities
+that can be derived from the seven base units
+(Appendix A 6). Some derived units in terms of
+the SI base units are given in (Appendix A 6.1).
+Some SI derived units are given special names
+(AppendixA 6.2) and some derived SI units make
+use of these units with special names and the
+seven base units (Appendix A 6.3). These are
+given in AppendixA 6.2 and A 6.3 for your ready
+reference. Other units retained for general use
+are given in Table 2.2.

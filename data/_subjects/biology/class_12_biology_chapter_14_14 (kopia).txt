@@ -1,0 +1,5 @@
+13.2.3 Life History Variation
+
+Populations evolve to maximise their reproductive ﬁtness, also called
+Darwinian ﬁtness (high r value), in the habitat in which they live. Under
+

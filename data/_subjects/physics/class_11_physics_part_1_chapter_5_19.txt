@@ -1,0 +1,40 @@
+In simple terms, the law can be stated thus :
+Forces in nature always occur between pairs of bodies. Force on a body A by body
+B is equal and opposite to the force on the body B by A.
+Action and reaction forces are simultaneous forces. There is no cause-effect
+relation between action and reaction. Any of the two mutual forces can be
+called action and the other reaction. Action and reaction act on different
+bodies and so they cannot be cancelled out. The internal action and reaction
+forces between different parts of a body do, however, sum to zero.
+
+7. Law of Conservation ofMomentum
+The total momentum of an isolated system of particles is conserved. The law
+follows from the second and third law of motion.
+
+8. Friction
+Frictional force opposes (impending or actual) relative motion between two
+surfaces in contact. It is the component of the contact force along the common
+tangent to the surface in contact. Static friction fS opposes impending relative
+motion; kinetic friction fk opposes actual relative motion. They are independent
+of the area of contact and satisfy the following approximate laws :
+
+fs S (fslmaX = :usR
+
+f k = ”kR
+us (co—efficient of static friction) and uk [co-efficient of kinetic friction) are
+
+constants characteristic of the pair of surfaces in contact. It is found
+experimentally that ukis less than us.
+
+Momentum kg m s or N s [MLT ] Vector
+
+    
+
+Force F N [MLT-Z] F = m a Second Law
+
+Impulse kg m s"1 or N s [M 13“} Impulse = force X time
+= change in momentum
+
+Static friction N [MLT'Z] fs 5 ,us N
+
+Kinetic friction N [MLT'Z] fk = #1: N

@@ -1,0 +1,42 @@
+perpendicular to the plane of i and j and
+related to them by the right hand screw rule is
+1“. Hence, the above result. You may verify
+similarly,
+jxli=i and ﬁxi=j
+
+From the rule for commutation of the cross
+product, it follows:
+
+
+Note if Lilioccur cyclically in the above
+vector product relation, the vector product is
+
+positive. If ii]; do not occur in cyclic order,
+
+the vector product is negative.
+Now,
+
+a x b = (axi + ayj + azﬁ) >< (bxi + by} + bzli)
+
+= axbyﬁ — axsz — aybxli + aybzi + azb 3— azbyi
+
+X
+
+=(aybz— azby)i + (asz— axbz)j + (axby— aybx)k
+We have used the elementary cross products
+in obtaining the above relation. The expression
+
+for aXb can be put in a determinant form
+which is easy to remember.
+
+
+Answer
+
+a-b = (3i — 43 + BEN—2i + j — 3f!)
+2 —6 — 4 — 15
+= —25
+i j k
+axb= 3 —4 5 =7i—j—51‘:
+—2 l —3
+Note b><a=—7i+j+5f: 4
+

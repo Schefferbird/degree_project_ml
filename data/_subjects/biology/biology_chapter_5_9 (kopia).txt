@@ -1,0 +1,46 @@
+Explanation of the concept of dominance:
+What exactly is dominance? Why are some alleles
+dominant and some recessive? To tackle these
+questions, we must understand what a gene does.
+Every gene, as you know by now, contains the
+information to express a particular trait. In a
+diploid organism, there are two copies of each
+gene, i.e., as a pair of alleles. Now, these two alleles
+need not always be identical, as in a heterozygote.
+One of them may be different due to some changes
+that it has undergone (about which you will read
+further on, and in the next chapter) which modiﬁes
+the information that particular allele contains.
+Let’s take an example of a gene that contains
+the information for producing an enzyme. Now
+there are two copies of this gene, the two allelic
+forms. Let us assume (as is more common) that
+the normal allele produces the normal enzyme
+that is needed for the transformation of a
+
+substrate S. Theoretically, the modiﬁed allele could be responsible for
+
+production of —
+
+(i) the normal/ less efﬁcient enzyme, or
+
+(ii) a non-functional enzyme, or
+(iii) no enzyme at all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

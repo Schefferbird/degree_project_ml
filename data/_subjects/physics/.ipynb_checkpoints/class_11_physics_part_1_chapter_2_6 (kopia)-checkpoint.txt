@@ -1,0 +1,25 @@
+The cesium atomic clocks are very accurate.
+In principle they provide portable standard. The
+national standard of time interval ‘second’ as
+well as the frequency is maintained through four
+cesium atomic clocks. A cesium atomic clock is
+used at the National Physical Laboratory (NPL),
+New Delhi to maintain the Indian standard of
+time.
+
+In our country, the NFL has the responsibility
+of maintenance and improvement of physical
+standards, including that of time, frequency, etc.
+Note that the Indian Standard Time (IST) is
+linked to this set of atomic clocks. The efficient
+cesium atomic clocks are so accurate that they
+impart the uncertainty in time realisation as
+i l x 10—13, i.e. 1 part in 1013. This implies that
+the uncertainty gained over time by such a
+device is less than 1 part in 1013; they lose or
+gain no more than 3 us in one year. In View of
+the tremendous accuracy in time measurement,
+the SI unit of length has been expressed in terms
+the path length light travels in certain interval
+of time (1/299, 792, 458 of a second) (Table 2.1).
+

@@ -1,0 +1,32 @@
+is equal to the average speed. This is not always
+the case, as you will see in the following example.
+
+> Example 3.1 A car is moving along a
+straight line. say OP in Fig. 3.1. It moves
+from O to P in 18 s and returns from P to Q
+in 6.0 s. What are the average velocity
+
+and average speed of the car in going (a)
+from O to P ? and (b) from O to P and back
+to Q ‘?
+
+Answer (a)
+
+Displacement
+Average velocity = —
+
+Time interval
+
+Thus, in this case the average speed is equal to
+the magnitude of the average velocity.
+(b) In this case,
+
+, Displacement +240 m
+Average veloaty = — = ——
+Time interval (18 + 6.0) s
+
+=+ 10 m s‘1
+Average speed = Path-length = OP + PQ
+Time interval At
+=(360+120) n1= 20 m s'1
+24 s

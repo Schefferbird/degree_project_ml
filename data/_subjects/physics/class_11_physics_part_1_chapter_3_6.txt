@@ -1,0 +1,26 @@
+Example 3.2 The position of an object
+moving along x—axis is given by x = a + bt2
+where a = 8.5 m. b = 2.5 m 8’2 and t is
+
+measured in seconds. What is its velocity at
+t = O s and t = 2.0 5. What is the average
+velocity between t = 2.0 s and t = 4.0 s ?
+
+From Fig. 3.7, we note that during the period
+t= 10 s to 18 s the velocity is constant. Between
+period t = 18 s to t = 20 s, it is uniformly
+decreasing and during the period t= 0 s to t
+= 10 s, it is increasing. Note that for uniform
+motion, velocity is the same as the average
+velocity at all instants.
+
+Instantaneous speed or simply speed is the
+magnitude of velocity. For example, a velocity of
++ 24.0 m S'1 and a velocity of— 24.0 m S'1 — both
+have an associated speed of 24.0 m s4. It should
+be noted that though average speed over a finite
+interval of time is greater or equal to the
+magnitude of the average velocity,
+instantaneous speed at an instant is equal to
+the magnitude of the instantaneous velocity at
+that instant. Why so ?

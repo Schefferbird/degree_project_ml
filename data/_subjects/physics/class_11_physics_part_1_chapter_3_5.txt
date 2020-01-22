@@ -1,0 +1,23 @@
+calculation. Let us take At = 2 s centred at
+t = 4 s. Then, by the definition of the average
+velocity, the slope of line P1P2 ( Fig. 3.6) gives
+the value of average velocity over the interval
+3 s to 5 s. Now, we decrease the value of Atfrom
+2 s to 1 s. Then line P1P2 becomes @192 and its
+slope gives the value of the average velocity over
+the interval 3.5 s to 4.5 s. In the limit At —> 0,
+the line P1P2 becomes tangent to the position-
+time curve at the point P and the velocity at t =
+4 s is given by the slope of the tangent at that
+point. It is difficult to show this process
+graphically. But if we use numerical method
+to obtain the value of the velocity, the
+meaning of the limiting process becomes
+clear. For the graph shown in
+Fig. 3.6, X: 0.08 t3. Table 3.1 gives the value of
+Ax/At calculated for Atequal to 2.0 s, 1.0 s, 0.5
+s, 0.1 s and 0.01 s centred at t= 4.0 s. The
+second and third columns give the value of t1=
+
+[t - 7) and t2 = ngJ and the fourth and
+the fifth columns give the corresponding values

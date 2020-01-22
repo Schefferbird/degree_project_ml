@@ -1,0 +1,17 @@
+Insulin used for diabetes was earlier extracted from
+pancreas of slaughtered cattle and pigs. Insulin from an
+animal source, though caused some patients to develop
+allergy or other types of reactions to the foreign
+protein. Insulin consists of two short polypeptide
+
+This C peptide is not present in the mature insan and is Figure 12.3 Maturation of
+removed during maturation into insulin.The main pro-insulin into insulin
+challenge for production of insulin using rDNA techniques (Simp lified)
+
+was getting insulin assembled into a mature form. In
+
+1983, Eli Lilly an American company prepared two DNA sequences
+corresponding to A and B, chains of human insulin and introduced them
+in plasmids of E. coli to produce insulin chains. Chains A and B were
+produced separately, extracted and combined by creating disulﬁde bonds
+to form human insulin.

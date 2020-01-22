@@ -1,0 +1,18 @@
+Vertical Variation of Pressure
+
+In the lower atmosphere the pressure
+decreases rapidly with height. The decrease
+amounts to about 1 mb for each 10 m
+increase in elevation. It does not always
+decrease at the same rate. Table 10.1 gives
+the average pressure and temperature at
+selected levels of elevation for a standard
+atmosphere.
+
+
+The vertical pressure gradient force is much
+larger than that of the horizontal pressure
+gradient. But, it is generally balanced by a
+nearly equal but opposite gravitational force.
+Hence, we do not experience strong upward
+winds.

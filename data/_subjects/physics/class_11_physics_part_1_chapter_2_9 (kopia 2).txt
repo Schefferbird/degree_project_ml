@@ -1,0 +1,6 @@
+2.6.2 Combination of Errors
+
+If we do an experiment involving several
+measurements, we must know how the errors
+in all the measurements combine. 
+

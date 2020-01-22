@@ -1,0 +1,7 @@
+This example justifies the idea to retain one
+more extra digit (than the number of digits in
+the least precise measurement) in intermediate
+steps of the complex multi-step calculations in
+order to avoid additional errors in the process
+of rounding off the numbers.
+

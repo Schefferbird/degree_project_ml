@@ -1,0 +1,10 @@
+to sign and size. These can arise due to random
+and unpredictable ﬂuctuations in experimental
+conditions (e.g. unpredictable ﬂuctuations in
+temperature, voltage supply, mechanical
+vibrations of experimental set-ups, etc), personal
+(unbiased) errors by the observer taking
+readings, etc. For example, when the same
+person repeats the same observation, it is very
+likely that he may get different readings
+everytime.

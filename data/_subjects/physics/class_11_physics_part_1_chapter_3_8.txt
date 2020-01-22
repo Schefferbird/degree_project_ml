@@ -1,0 +1,27 @@
+statement requires use of calculus. We can,
+however, see that it is true for the simple case of
+an object moving with constant velocity u. Its
+velocity-time graph is as shown in Fig. 3.1 l.
+
+The v-t curve is a straight line parallel to the
+time axis and the area under it between t = O
+and t= T is the area of the rectangle of height u
+and base T. Therefore, area = uXT = uT which
+is the displacement in this time interval. How
+come in this case an area is equal to a distance?
+Think! Note the dimensions of quantities on
+the two coordinate axes, and you will arrive at
+the answer.
+
+Note that the x-t, v-t, and a-t graphs shown
+in several ﬁgures in this chapter have sharp
+kinks at some points implying that the
+functions are not differentiable at these
+points. In any realistic situation, the
+functions will be differentiable at all points
+and the graphs will be smooth.
+
+What this means physically is that
+acceleration and velocity cannot change
+values abruptly at an instant. Changes are
+always continuous.

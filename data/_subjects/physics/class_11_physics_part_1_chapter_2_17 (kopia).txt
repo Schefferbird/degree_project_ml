@@ -1,0 +1,28 @@
+Answer The dimensions of LHS are
+[M] [L '1‘1 l2 = [M] [LZ'I‘2]
+= [M L2 T2]
+The dimensions of RHS are
+[MllL "1‘21 [L] = [MllL2 "1‘21
+= [M L2'I‘2]
+
+The dimensions of LHS and RHS are the same and
+hence the equation is dimensionally correct. 4
+
+Example 2.16 The SI unit of energy is
+J = kg m2 s”: that of speed 1) is m S’1 and
+of acceleration a is m S’Z. Which of the
+formulae for kinetic energy (K) given below
+can you rule out on the basis of
+dimensional arguments (m stands for the
+
+mass of the body) :
+(a) K = m2 U"
+
+(b) K =(1/2)mv'-'
+
+(c) K = ma
+
+((1) K = (3/16)mv'~’
+
+(e) K= (1/2)mv”+ ma
+

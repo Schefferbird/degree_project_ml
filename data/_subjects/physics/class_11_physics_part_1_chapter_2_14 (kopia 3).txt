@@ -1,0 +1,24 @@
+Answer The number of significant figures in
+the measured length is 4. The calculated area
+and the volume should therefore be rounded off
+to 4 significant figures.
+
+Surface area of the cube = 6(7.203)2 m2
+
+
+Example 2.14 5.74 g of a substance
+
+occupies 1.2 cm”. Express its density by
+keeping the significant figures in View.
+
+ 
+Answer There are 3 significant figures in the
+measured mass whereas there are only 2
+significant figures in the measured volume.
+Hence the density should be expressed to only
+2 significant figures.
+
+, 5.74 _3
+Densrcy = E g cm
+
+= 4.8 g cm"3. 4

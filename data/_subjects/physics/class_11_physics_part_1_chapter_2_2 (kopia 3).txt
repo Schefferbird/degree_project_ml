@@ -1,0 +1,11 @@
+2.3 MEASUREMENT OF LENGTH
+
+You are already familiar with some direct methods
+for the measurement of length. For example, a
+metre scale is used for lengths from 10’3m to 102
+m. A vernier callipers is used for lengths to an
+accuracy of 10‘4 m. A screw gauge and a
+spherometer can be used to measure lengths as
+less as to l O’5m. To measure lengths beyond these
+ranges, we make use of some special indirect
+methods.

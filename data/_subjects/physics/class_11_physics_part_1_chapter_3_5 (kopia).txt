@@ -1,0 +1,28 @@
+of x, i.e. x(tl) = 0.08 If and x(t2) = 0.08 I; The
+sixth column lists the difference Ax = x (t2) —
+(t1) and the last column gives the ratio of Ax and
+At, i.e. the average velocity corresponding to the
+value of At listed in the first column.
+
+We see from Table 3.1 that as we decrease
+the value ofAtfrom 2.0 s to 0.010 s, the value of
+the average velocity approaches the limiting
+value 3.84 m S'1 which is the value of velocity at
+instant for motion of the car shown in Fig. 3.3.
+For this case, the variation of velocity with time
+is found to be as shown in Fig. 3.7.
+
+
+The graphical method for the determination
+of the instantaneous velocity is always not a
+convenient method. For this, we must carefully
+plot the position—time graph and calculate the
+value of average velocity as At becomes smaller
+and smaller. It is easier to calculate the value
+of velocity at different instants if we have data
+of positions at different instants or exact
+expression for the position as a function of time.
+Then, we calculate Ax/ At from the data for
+decreasing the value of At and find the limiting
+value as we have done in Table 3.1 or use
+differential calculus for the given expression and

@@ -1,0 +1,13 @@
+6.1.1 The Scalar Product
+
+We have learnt about vectors and their use in Chapter 4.
+Physical quantities like displacement, velocity, acceleration,
+force etc. are vectors. We have also learnt how vectors are
+added or subtracted. We now need to know how vectors are
+multiplied. There are two ways of multiplying vectors which
+we shall come across : one way known as the scalar product
+gives a scalar from two vectors and the other known as the
+vector product produces a new vector from two vectors. We
+shall look at the vector product in Chapter 7. Here we take
+up the scalar product of two vectors. The scalar product or
+dot product of any two vectors A and B, denoted as A-B (read

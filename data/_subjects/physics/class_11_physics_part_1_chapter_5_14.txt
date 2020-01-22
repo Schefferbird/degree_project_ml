@@ -1,0 +1,24 @@
+Answer As the string is inextensible, and the
+pully is smooth, the 3 kg block and the 20 kg
+trolley both have same magnitude of
+acceleration. Applying second law to motion of
+the block (Fig. 5.12(b)),
+3O — T = 3a
+
+Apply the second law to motion of the trolley (Fig.
+5.12(c)),
+
+T—J; = 20 a.
+Now fk =ukN,
+Here pk =0.04,
+N = 20x 10
+= 200 N.
+
+Thus the equation for the motion of the trolley is
+T— 0.04X 200 = 20 a Or T— 8 = 20a.
+
+These equations give a = 2 m s*2 = 0.96 m s2
+
+23
+andT =27.1 N. 4
+

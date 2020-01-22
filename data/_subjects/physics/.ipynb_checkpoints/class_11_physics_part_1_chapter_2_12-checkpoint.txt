@@ -1,0 +1,26 @@
+the first uncertain digit are known as
+signiﬁcant digits or signiﬁcant ﬁgures. If we
+say the period of oscillation of a simple
+pendulum is 1.62 s, the digits 1 and 6 are
+reliable and certain, while the digit 2 is
+uncertain. Thus, the measured value has three
+significant figures. The length of an object
+reported after measurement to be 287.5 cm has
+four significant figures, the digits 2, 8, 7 are
+certain while the digit 5 is uncertain. Clearly,
+reporting the result of measurement that
+includes more digits than the significant digits
+is superﬂuous and also misleading since it would
+give a wrong idea about the precision of
+measurement.
+
+The rules for determining the number of
+significant figures can be understood from the
+following examples. Significant figures indicate,
+as already mentioned, the precision of
+measurement which depends on the least count
+of the measuring instrument. A choice of
+change of different units does not change the
+number of signiﬁcant digits or ﬁgures in a
+measurement. This important remark makes
+most of the following observations clear:

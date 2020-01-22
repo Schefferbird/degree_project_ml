@@ -1,0 +1,17 @@
+waves are completely, out of phase and the
+resultant wave has zero displacement
+everywhere at all times
+
+y (x, t) = 0 (15.34)
+Eq. (15.33) refers to the so-called constructive
+interference of the two waves
+where the amplitudes add up in
+the resultant wave. Eq. (15.34)
+
+intereference where the
+amplitudes subtract out in the
+resultant wave. Fig. 15.10
+shows these two cases of
+interference of waves arising
+from the principle of
+superposition.

@@ -1,0 +1,15 @@
+Having determined D, we can employ a similar
+method to determine the size or angular diameter
+of the planet. If dis the diameter of the planet
+and a the angular size of the planet (the angle
+subtended by d at the earth), we have
+
+a = d/ D (2.2)
+
+The angle 06 can be measured from the same
+location on the earth. It is the angle between
+the two directions when two diametrically
+opposite points of the planet are viewed through
+the telescope. Since D is known, the diameter d
+of the planet can be determined using Eq. (2.2).
+

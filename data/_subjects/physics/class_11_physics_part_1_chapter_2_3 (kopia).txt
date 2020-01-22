@@ -1,0 +1,15 @@
+1” = 4.847X10‘4 rad : 4.85><10‘6 rad 4
+Example 2.2 A man wishes to estimate
+the distance of a nearby tower from him.
+He stands at a point A in front of the tower
+C and spots a very distant object O in line
+with AC. He then walks perpendicular to
+AC up to B. a distance of 100 m. and looks
+at O and C again. Since 0 is very distant.
+the direction 80 is practically the same as
+
+AO; but he ﬁnds the line of sight of C shifted
+from the original line of sight by an angle 0
+= 400 (6 is known as parallax) estimate
+the distance of the tower C from his original
+position A.

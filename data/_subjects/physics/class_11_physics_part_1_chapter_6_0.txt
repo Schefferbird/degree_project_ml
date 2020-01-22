@@ -1,0 +1,25 @@
+6.1 INTRODUCTION
+
+The terms ‘work’, ‘energy’ and ‘power’ are frequently used
+in everyday language. A farmer ploughing the field, a
+construction worker carrying bricks, a student studying for
+a competitive examination, an artist painting a beautiful
+landscape, all are said to be working. In physics, however,
+the word ‘Work’ covers a definite and precise meaning.
+Somebody who has the capacity to work for 14- 16 hours a
+day is said to have a large stamina or energy. We admire a
+long distance runner for her stamina or energy. Energy is
+thus our capacity to do work. In Physics too, the term ‘energy’
+is related to work in this sense, but as said above the term
+‘work’ itself is defined much more precisely. The word ‘power’
+is used in everyday life with different shades of meaning. In
+karate or boxing we talk of ‘powerful’ punches. These are
+delivered at a great speed. This shade of meaning is close to
+the meaning of the word ‘power’ used in physics. We shall
+find that there is at best a loose correlation between the
+physical definitions and the physiological pictures these
+terms generate in our minds. The aim of this chapter is to
+develop an understanding of these three physical quantities.
+Before we proceed to this task, we need to develop a
+mathematical prerequisite, namely the scalar product of two
+vectors.

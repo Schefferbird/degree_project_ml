@@ -1,0 +1,38 @@
+Time of maximum height
+
+How much time does the projectile take to reach
+the maximum height ? Let this time be denoted
+by tm. Since at this point, vy= 0, we have from
+
+Eq. (4.39):
+
+vy = vasinOO—g tm=0
+Or, tm = v0 sinOo /g (4.41a)
+The total time Tf during which the projectile is
+in ﬂight can be obtained by putting y = 0 in
+Eq. (4.38). We get :
+
+Tf= 2 (v0 sin 00 )/g (4.4lb)
+
+Tf is known as the time of ﬂight of the projectile.
+We note that Tf = 2 tm , which is expected
+because of the symmetry of the parabolic path.
+
+Maximum height of a projectile
+
+The maximum height hm reached by the
+projectile can be calculated by substituting
+
+t= tm in Eq. (4.38) :
+2
+vosin60] g {Dosinﬂoj
+
+g g
+
+y = hm = (”osm90){ 2
+
+2019-20
+
+(v0s1n00)2
+Or, hm = 2—9 (4.42)
+

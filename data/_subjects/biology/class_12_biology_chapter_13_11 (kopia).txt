@@ -1,0 +1,23 @@
+13.2.2 Population Growth
+
+The size of a population for any species is not a static parameter. It keeps
+changing with time, depending on various factors including food
+availability, predation pressure and adverse weather. In fact, it is these
+changes in population density that give us some idea of what is happening
+to the population — whether it is ﬂourishing or declining. Whatever might
+be the ultimate reasons, the density of a population in a given habitat
+during a given period, ﬂuctuates due to changes in four basic processes,
+two of which (natality and immigration) contribute to an increase in
+population density and two (mortality and emigration) to a decrease.
+(i) Natality refers to the number of births during a given period in the
+population that are added to the initial density.
+(ii) Mortality is the number of deaths in the population during a given
+period.
+
+(iii) Immigration is the number of individuals of the same species that
+have come into the habitat from elsewhere during the time period
+under consideration.
+
+(iv) Emigration is the number of individuals of the population who
+left the habitat and gone elsewhere during the time period under
+consideration.

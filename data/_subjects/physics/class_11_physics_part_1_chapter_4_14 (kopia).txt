@@ -1,0 +1,39 @@
+Neglecting air resistance - what does the assumption really mean?
+
+While treating the topic of projectile motion.
+we have stated that we assume that the
+air resistance has no effect on the motion
+of the projectile. You must understand what
+the statement really means. Friction, force
+due to viscosity, air resistance are all
+dissipative forces. In the presence of any of
+such forces opposing motion, any object will
+lose some part of its initial energy and
+consequently, momentum too. Thus, a
+projectile that traverses a parabolic path
+would certainly show deviation from its
+idealised trajectory in the presence of air
+resistance. It will not hit the ground with
+the same speed with which it was projected
+from it. In the absence of air resistance, the
+x-component of the velocity remains
+constant and it is only the y-component that
+undergoes a continuous change. However.
+in the presence of air resistance, both of
+these would get affected. That would mean
+that the range would be less than the one
+given by Eq. (4.43). Maximum height
+attained would also be less than that
+predicted by Eq. (4.42). Can you then,
+anticipate the change in the time of ﬂight?
+
+In order to avoid air resistance. we will
+have to perform the experiment in vacuum
+or under low pressure, which is not easy.
+When we use a phrase like ‘neglect air
+resistance’. we imply that the change in
+parameters such as range. height etc. is
+much smaller than their values without air
+resistance. The calculation without air
+resistance is much simpler than that with
+air resistance.

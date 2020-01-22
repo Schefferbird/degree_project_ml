@@ -1,0 +1,51 @@
+6.12.3 Collisions in Two Dimensions
+
+Fig. 6.10 also depicts the collision of a moving
+mass m1 with the stationary mass m2. Linear
+momentum is conserved in such a collision.
+Since momentum is a vector this implies three
+equations for the three directions (x, y, 2}.
+Consider the plane determined by the final
+velocity directions of m1 and m2 and choose it to
+be the x—y plane. The conservation of the
+z-component of the linear momentum implies
+that the entire collision is in the x—y plane. The
+x— and y-component equations are
+”11%: mlvlfcos 01 + mgvycos 02 (6.29)
+O = mlv sin 61 — n12v2f sin 62 (6.30)
+
+1f
+One lmows {m1, m2, v1 3 in most situations. There
+are thus four unknowns {v1f, vgf, 01 and 02}, and
+only two equations. If 6 1 = 6 2 = O, we regain
+Eq. (6.24) for one dimensional collision.
+
+If, further the collision is elastic,
+
+lmv.2=lmv 2+1 v 2 (631)
+2 1 11 2 1 1f 2 m2 2f -
+
+We obtain an additional equation. That still
+leaves us one equation short. At least one of
+the four unknowns, say 0 1, must be made known
+for the problem to be solvable. For example, 01
+can be determined by moving a detector in an
+angular fashion from the x to the y axis. Given
+(ml, m2, v”, 01} we can determine {1) 02}
+
+1f’ v2f’
+from Eqs. (6.29)-(6.3 l).
+
+
+F Example 6.13 Consider the collision
+depicted in Fig. 6.10 to be between two
+billiard balls with equal masses ml = m2.
+The first ball is called the cue while the
+second ball is called the target. The
+billiard player wants to ‘sink‘ the target
+ball in a corner pocket, which is at an
+angle 62 = 37°. Assume that the collision
+is elastic and that friction and rotational
+motion are not important. Obtain 91.
+
+ 

@@ -1,0 +1,82 @@
+particles. The centre of mass of the system is
+that point C which is at a distance X from 0,
+where X is given by
+mlx1 + m2x2
+m1 + m2
+
+
+X = (7.1)
+In Eq. (7.1), X can be regarded as the mass-
+weighted mean of x1 and x2. If the two particles
+have the same mass m1 = m2 = m~ then
+mx1 + mx2 x1 + x2
+
+X:—:
+2m 2
+
+Thus, for two particles of equal mass the
+centre of mass lies exactly midway between
+them.
+
+ 
+
+If we have n particles of masses m1, m2,
+...mn respectively, along a straight line taken as
+the x— axis, then by definition the position of the
+centre of the mass of the system of particles is
+given by.
+
+2 mix,
+m1x1+m2x2+ +7“an _ i:1 _ 2 mixi
+
+— TL
+m +m + +m E m.
+1 2
+” 2 mi ‘
+
+ 
+
+where x1, x2,...xn are the distances of the
+particles from the origin; X is also measured from
+
+the same origin. The symbol 2 (the Greek letter
+
+sigma) denotes summation, in this case over n
+particles. The sum
+
+2mi=M
+
+is the total mass of the system.
+
+Suppose that we have three particles, not
+lying in a straight line. We may define x— and y—
+axes in the plane in which the particles lie and
+represent the positions of the three particles by
+coordinates (x1,y1), (x2,y2) and (x3,y3) respectively.
+Let the masses of the three particles be m1, m2
+and m3 respectively. The centre of mass C of
+the system of the three particles is defined and
+located by the coordinates (X, Y) given by
+
+mlxl + m2x2 + m3x3
+X — — (7.3a)
+
+m1+m2+m3
+
+mlyl + m2y2 + msys
+m1 + m2 + "13
+
+Y = (7.313)
+
+For the particles of equal mass m = m1 = m2
+2 m3,
+
+X_m(x1+x2+x3)_x1+x2+x3
+
+3m 3
+
+ 
+
+Y— me1 +92 +y3) _ yl +92 +93
+3m 3
+

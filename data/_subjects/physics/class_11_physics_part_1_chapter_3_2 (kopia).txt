@@ -1,0 +1,18 @@
+negative sign indicates the direction of
+displacement. Thus, it is not necessary to use
+vector notation for discussing motion of objects
+in one-dimension.
+
+The magnitude of displacement may or may
+not be equal to the path length traversed by
+an object. For example, for motion of the car
+from O to P, the path length is +360 m and the
+displacement is +360 m. In this case, the
+magnitude of displacement (360 m) is equal to
+the path length (360 m). But consider the motion
+of the car from O to P and back to Q. In this
+case, the path length = (+360 m) + (+120 m) = +
+480 m. However, the displacement = (+240 m) —
+(0 m) = + 240 m. Thus, the magnitude of
+displacement (240 m) is not equal to the path
+length (480 m).

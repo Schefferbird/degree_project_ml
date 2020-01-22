@@ -1,0 +1,24 @@
+In practice, the ball does come to a stop after
+moving a finite distance on the horizontal plane,
+because of the opposing force of friction which
+can never be totally eliminated. However, if there
+were no friction, the ball would continue to move
+with a constant velocity on the horizontal plane.
+
+Galileo thus, arrived at a new insight on
+motion that had eluded Aristotle and those who
+followed him. The state of rest and the state of
+uniform linear motion (motion with constant
+velocity) are equivalent. In both cases, there is
+
+accomplished almost single-handedly by Isaac
+Newton, one of the greatest scientists of all times.
+Newton built on Galileo’s ideas and laid the
+foundation of mechanics in terms of three laws
+of motion that go by his name. Galileo’s law of
+inertia was his starting point which he
+formulated as the first law of motion:
+Every body continues to be in its state
+of rest or of uniform motion in a straight
+line unless compelled by some external
+force to act otherwise.

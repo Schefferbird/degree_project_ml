@@ -1,0 +1,12 @@
+4.1.1 UNIFORM CIRCULAR MOTION
+
+When an object follows a circular path at a
+constant speed, the motion of the object is called
+uniform circular motion. The word “uniform”
+refers to the speed, which is uniform (constant)
+throughout the motion. Suppose an object is
+moving with uniform speed 1) in a circle of radius
+R as shown in Fig. 4. 19. Since the velocity of the
+object is changing continuously in direction, the
+object undergoes acceleration. Let us find the
+magnitude and the direction of this acceleration.

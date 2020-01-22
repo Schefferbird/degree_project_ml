@@ -1,0 +1,50 @@
+Impulse
+
+We sometimes encounter examples where a large
+force acts for a very short duration producing a
+finite change in momentum of the body. For
+example, when a ball hits a wall and bounces
+back, the force on the ball by the wall acts for a
+very short time when the two are in contact, yet
+the force is large enough to reverse the momentum
+of the ball. Often, in these situations, the force
+and the time duration are difficult to ascertain
+separately. However, the product of force and time,
+which is the change in momentum of the body
+remains a measurable quantity. This product is
+called impulse:
+
+Impulse = Force X time duration
+= Change in momentum (5.7)
+
+A large force acting for a short time to produce a
+finite change in momentum is called an impulsive
+force. In the history of science, impulsive forces
+were put in a conceptually different category from
+ordinary forces. Newtonian mechanics has no
+such distinction. Impulsive force is like any other
+force — except that it is large and acts for a short
+time.
+
+> Example 5.4 A batsman hits back a ball
+straight in the direction of the bowler without
+changing its initial speed of 12 m S’l.
+
+If the mass of the ball is O. 15 kg, determine
+the impulse imparted to the ball. (Assume
+linear motion of the ball)
+
+ 
+
+Answer Change in momentum
+= 0.15 X 12—(—0.15X12)
+
+= 3.6Ns,
+
+Impulse = 3.6 N s,
+in the direction from the batsman to the bowler.
+
+This is an example where the force on the ball
+by the batsman and the time of contact of the
+ball and the bat are difficult to know, but the
+impulse is readily calculated. 4

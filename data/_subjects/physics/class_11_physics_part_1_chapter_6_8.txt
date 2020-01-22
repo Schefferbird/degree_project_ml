@@ -1,0 +1,59 @@
+The total mechanical energies E0, Eh, and EH
+of the ball at the indicated heights zero (ground
+level), h and H, are
+
+‘EH = mgH (6.11 a)
+l
+
+Eh =mgh+§mv§ (6.11b)
+
+E0 = (1/2) mvf2 (6.11 c)
+
+The constant force is a special case of a spatially
+dependent force F(x). Hence, the mechanical
+energy is conserved. Thus a result that was obtained in section 3.7 for a
+freely falling body.
+Further,
+EH = Eh
+which implies,
+
+v121= 29(H— h) (6.11 d)
+
+and is a familiar result from kinematics.
+
+At the height H, the energy is purely potential.
+It is partially converted to kinetic at height h and
+is fully kinetic at ground level. This illustrates
+the conservation of mechanical energy.
+
+ 
+
+b Example 6.7 Abob of mass mis suspended
+by a light string of length L. It is imparted a
+horizontal velocity no at the lowest point A
+such that it completes a semi-circular
+trajectory in the vertical plane with the string
+becoming slack only on reaching the topmost
+point. C. This is shown in Fig. 6.6. Obtain an
+expression for (i) 00; (ii) the speeds at points
+B and C: (iii) the ratio of the kinetic energies
+(KB/KC) at B and C. Comment on the nature
+of the trajectory of the bob after it reaches
+the point C.
+
+Answer (i) There are two external forces on
+the bob : gravity and the tension (T) in the
+string. The latter does no work since the
+displacement of the bob is always normal to the
+string. The potential energy of the bob is thus
+associated with the gravitational force only. The
+total mechanical energy E of the system is
+conserved. We take the potential energy of the
+system to be zero at the lowest point A. Thus,
+at A :
+
+where TA is the tension in the string at A. At the
+highest point C, the string slackens, as the
+tension in the string (TC) becomes zero.
+
+Thus, at C

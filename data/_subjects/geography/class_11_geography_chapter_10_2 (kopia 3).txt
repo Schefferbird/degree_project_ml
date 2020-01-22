@@ -1,0 +1,6 @@
+Frictional Force
+
+It affects the speed of the wind. It is greatest at
+the surface and its inﬂuence generally extends
+upto an elevation of l - 3 km. Over the sea
+surface the friction is minimal.

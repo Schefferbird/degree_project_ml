@@ -1,0 +1,34 @@
+(a) If vB = vA, vB—vA = 0. Then, from Eq. (3.13), xB
+(t) — xA (t) = xB (O) — xA (0). Therefore, the two
+objects stay at a constant distance (x8 (0) — xA
+(0)) apart, and their position—time graphs are
+straight lines parallel to each other as shown
+in Fig. 3.16. The relative velocity DAB or vBA is
+zero in this case.
+
+(b) If vA > v8, v3 — vA is negative. One graph is
+steeper than the other and they meet at a
+common point. For example, suppose vA = 20 m s‘1
+and xA (O) = 10 m; and vB = 10 m s‘1,xB(O) = 40
+m; then the time at which they meet is t = 3 s
+(Fig. 3.17). At this instant they are both at a
+position xA (t) = xB (t) = 70 m. Thus, object A
+overtakes object B at this time. In this case
+= 10m sr1 — 20m s*1 = — 10 m s*1=— DAB.
+
+(c) Suppose DA and vB are of opposite signs. For
+example, if in the above example object A is
+moving with 20 m s‘1 starting at xA(O) = 10 m
+and object B is moving with — 10 m s*1 starting
+at xB (O) = 40 m, the two objects meet at t= 1 s
+(Fig. 3.18). The velocity of B relative to A,
+vBA = [—10 — (20)] m s*1 = —30 m S“1 = — vAB. In this
+case, the magnitude of vBA or vAB ( = 30 m s‘l) is
+greater than the magnitude of velocity of A or
+that of B. If the objects under consideration are
+two trains, then for a person sitting on either of
+the two, the other train seems to go very fast.
+
+
+velocities in opposite directions, showing
+the time of meeting.

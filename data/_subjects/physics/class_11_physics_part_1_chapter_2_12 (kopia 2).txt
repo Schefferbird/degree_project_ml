@@ -1,0 +1,54 @@
+(2) There can be some confusion regarding the
+trailing zero(s). Suppose a length is reported to
+be 4.700 m. It is evident that the zeroes here
+are meant to convey the precision of
+measurement and are, therefore, significant. [If
+these were not, it would be superﬂuous to write
+them explicitly, the reported measurement
+would have been simply 4.7 m]. Now suppose
+we change units, then
+
+4.700 m = 470.0 cm = 4700 mm = 0.004700 km
+
+Since the last number has trailing zero(s) in a
+number with no decimal, we would conclude
+erroneously from observation (1) above that the
+number has two significant figures, while in
+fact, it has four significant figures and a mere
+change of units cannot change the number of
+significant figures.
+
+(3) To remove such ambiguities in
+determining the number of significant
+figures, the best way is to report every
+measurement in scientiﬁc notation (in the
+power of 10). In this notation, every number is
+expressed as a X 10b, where a is a number
+between 1 and 10, and b is any positive or
+negative exponent (or power) of 10. In order to
+get an approximate idea of the number, we may
+round off the number a to 1 (for a g 5) and to 10
+
+(for 5<ag 10). Then the number can be
+expressed approximately as 10b in which the
+exponent (or power) b of 10 is called order of
+magnitude of the physical quantity. When only
+an estimate is required, the quantity is of the
+order of 10’. For example, the diameter of the
+earth (1.28X107m) is of the order of 107m with
+the order of magnitude 7. The diameter of
+hydrogen atom (1.06 x 10mm) is of the order of
+10mm, with the order of magnitude
+—10. Thus, the diameter of the earth is 17 orders
+of magnitude larger than the hydrogen atom.
+
+It is often customary to write the decimal after
+the first digit. Now the confusion mentioned in
+(a) above disappears :
+
+4.700 m = 4.700 X 102 cm
+
+= 4.700 X 103 mm = 4.700 X 10'3 km
+
+The power of 10 is irrelevant to the
+determination of significant figures. However, all

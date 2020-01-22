@@ -1,0 +1,26 @@
+problems without explicitly outlining and
+justifying the procedure. We now realise that in
+earlier studies we assumed, without saying so,
+that rotational motion and/ or internal motion
+of the particles were either absent or negligible.
+We no longer need to do this. We have not only
+found the justification of the procedure we
+followed earlier; but we also have found how to
+describe and separate the translational motion
+of (1) a rigid body which may be rotating as
+well, or (2) a system of particles with all kinds
+of internal motion.
+
+
+Figure 7 .12 is a good illustration of Eq.
+(7 . 1 1). A projectile, following the usual parabolic
+trajectory, explodes into fragments midway in
+air. The forces leading to the explosion are
+internal forces. They contribute nothing to the
+motion of the centre of mass. The total external
+force, namely, the force of gravity acting on the
+body, is the same before and after the explosion.
+The centre of mass under the inﬂuence of the
+external force continues, therefore, along the
+same parabolic trajectory as it would have
+followed if there were no explosion.

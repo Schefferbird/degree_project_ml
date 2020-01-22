@@ -1,0 +1,50 @@
+Answer The mean period of oscillation of the
+pendulum
+
+
+As the periods are measured to a resolution
+of 0.01 s, all times are to the second decimal; it
+is proper to put this mean period also to the
+second decimal.
+
+The errors in the measurements are
+
+2.63s—2.62s= 0.01 s
+2.56 s — 2.62 s = — 0.06 s
+2.42 s — 2.62 s = — 0.20 s
+2.71 s—2.62s= 0.09s
+2.80s—2.62s= 0.18s
+
+Note that the errors have the same units as the
+quantity to be measured.
+
+The arithmetic mean of all the absolute errors
+(for arithmetic mean, we take only the
+magnitudes) is
+
+ATmem = [(0.01+ 0.06+0.20+0.09+0.18)s]/5
+= 0.54 s/5
+= 0.1 1 s
+
+That means, the period of oscillation of the
+simple pendulum is (2.62 i 0.11) s i.e. it lies
+between (2.62 + 0.11) s and (2.62 — 0.11) s or
+between 2.73 s and 2.51 s. As the arithmetic
+mean of all the absolute errors is 0.1 1 s, there
+is already an error in the tenth of a second.
+Hence there is no point in giving the period to a
+hundredth. A more correct way will be to write
+
+T=2.6i0.1 S
+
+Note that the last numeral 6 is unreliable, since
+it may be anything between 5 and 7. We indicate
+this by saying that the measurement has two
+significant figures. In this case, the two
+significant figures are 2, which is reliable and
+6, which has an error associated with it. You
+will learn more about the significant figures in
+section 2.7.
+
+For this example, the relative error or the
+percentage error is

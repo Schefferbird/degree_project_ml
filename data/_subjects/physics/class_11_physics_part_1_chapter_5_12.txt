@@ -1,0 +1,14 @@
+since we are talking of uncharged and non-
+magnetic bodies in mechanics. At the microscopic
+level, all bodies are made of charged constituents
+(nuclei and electrons) and the various contact
+forces arising due to elasticity of bodies, molecular
+collisions and impacts, etc. can ultimately be
+traced to the electrical forces between the charged
+constituents of different bodies. The detailed
+microscopic origin of these forces is, however,
+complex and not useful for handling problems in
+mechanics at the macroscopic scale. This is why
+they are treated as different types of forces with
+their characteristic properties determined
+empirically.

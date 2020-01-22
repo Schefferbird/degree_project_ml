@@ -1,0 +1,5 @@
+3.2 POSITION. PATH LENGTH AND DISPLACEMENT
+
+Earlier you learnt that motion is change in position of an
+object with time. In order to specify position, we need to use
+a reference point and a set of axes. It is convenient to choose

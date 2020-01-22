@@ -1,0 +1,42 @@
+initial velocity increases the stopping distance
+by a factor of 4 (for the same deceleration).
+
+For the car of a particular make, the braking
+distance was found to be 10 m, 20 m, 34 m and
+50 m corresponding to velocities of l 1, 15, 20
+and 25 m/s which are nearly consistent with
+the above formula.
+
+Stopping distance is an important factor
+considered in setting speed limits, for example,
+in school zones. 4
+
+F Example 3.8 Reaction time : When a
+situation demands our immediate
+action, it takes some time before we
+really respond. Reaction time is the
+time a person takes to observe, think
+and act. For example. if a person is
+driving and suddenly a boy appears on
+the road. then the time elapsed before
+he slams the brakes of the car is the
+reaction time. Reaction time depends
+
+on complexity of the situation and on
+an individual.
+
+You can measure your reaction time
+by a simple experiment. Take a ruler
+and ask your friend to drop it vertically
+through the gap between your thumb
+and forefinger (Fig. 3.15). After you
+catch it. find the distance d travelled
+by the ruler. In a particular case, (1 was
+found to be 21.0 cm. Estimate reaction
+time.
+
+
+Answer The ruler drops under free fall.
+Therefore, v0 = O, and a = —g = —9.8 m s”. The
+distance travelled d and the reaction time tr are
+related by

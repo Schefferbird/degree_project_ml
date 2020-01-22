@@ -1,0 +1,5 @@
+7.1.1 What kind of motion can a rigid body have?
+
+Let us try to explore this question by taking some examples
+of the motion of rigid bodies. Let us begin with a rectangular
+

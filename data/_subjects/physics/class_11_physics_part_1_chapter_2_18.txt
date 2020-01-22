@@ -1,0 +1,20 @@
+Note that value of constant k can not be obtained
+by the method of dimensions. Here it does not
+matter if some number multiplies the right side
+of this formula, because that does not affect its
+dimensions.
+
+Dimensional analysis is very useful in deducing
+relations among the interdependent physical
+quantities. However, dimensionless constants
+cannot be obtained by this method. The method
+of dimensions can only test the dimensional
+validity, but not the exact relationship between
+physical quantities in any equation. It does not
+distinguish between the physical quantities
+having same dimensions.
+
+A number of exercises at the end of this
+physical quantities have been chosen as fundamental or base quantities [such as length,
+mass, time, electric current, thermodynamic temperature, amount of substance, and
+luminous intensity].

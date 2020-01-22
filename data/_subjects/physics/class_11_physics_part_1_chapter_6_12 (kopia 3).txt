@@ -1,0 +1,21 @@
+6.10.4 The Equivalence of Mass and Energy
+
+Till the end of the nineteenth century, physicists
+believed that in every physical and chemical
+process, the mass of an isolated system is
+conserved. Matter might change its phase, e.g.
+glacial ice could melt into a gushing stream, but
+matter is neither created nor destroyed; Albert
+Einstein (1 879- 1955) however, showed that mass
+and energy are equivalent and are related by
+the relation
+
+E = m 02 (6.20)
+where c, the speed of light in vacuum is
+approximately 3 ><108 m s4. Thus, a staggering
+amount of energy is associated with a mere
+kilogram of matter
+
+E = 1x (3 X108)2 J = 9 ><1016 J.
+This is equivalent to the annual electrical output
+of a large (3000 MW) power generating station.

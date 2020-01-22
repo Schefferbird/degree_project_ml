@@ -1,0 +1,8 @@
+7.5 VECTOR PRODUCT OF TWO VECTORS
+
+We are already familiar with vectors and their
+use in physics. In chapter 6 (Work, Energy,
+Power) we defined the scalar product of two
+vectors. An important physical quantity, work,
+is defined as a scalar product of two vector
+quantities, force and displacement.

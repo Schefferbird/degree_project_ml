@@ -1,0 +1,34 @@
+3.6 KINEMATIC EQUATIONS FOR UNIFORMLY ACCELERATED MOTION
+
+For uniformly accelerated motion, we can derive
+some simple equations that relate displacement
+(x), time taken (t), initial velocity (v0), final
+velocity (v) and acceleration (a). Equation (3.6)
+already obtained gives a relation between final
+and initial velocities v and v0 of an object moving
+with uniform acceleration a :
+
+v = v0 + at (3.6)
+
+This relation is graphically represented in Fig. 3. 12.
+The area under this curve is :
+
+Area between instants O and t= Area of triangle
+ABC + Area of rectangle OACD
+
+As explained in the previous section, the area
+under v-t curve represents the displacement.
+Therefore, the displacement x of the object is :
+
+Equations (3.9a) and (3.9b) mean that the object
+has undergone displacement xwith an average
+velocity equal to the arithmetic average of the
+initial and final velocities.
+
+From Eq. (3.6), t = (v — v0) / a. Substituting this in
+Eq. (3.9a), we get
+
+x=5t=(v+v0](v—v0]:v2—v§
+2 a 2a
+
+v2 = v3 + 2ax (3.10)

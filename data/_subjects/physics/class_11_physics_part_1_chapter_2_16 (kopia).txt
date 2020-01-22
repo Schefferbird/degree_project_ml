@@ -1,0 +1,23 @@
+2.10 DIMENSIONAL ANALYSIS AND ITS
+APPLICATIONS
+
+The recognition of concepts of dimensions, which
+guide the description of physical behaviour is
+of basic importance as only those physical
+quantities can be added or subtracted which
+have the same dimensions. A thorough
+understanding of dimensional analysis helps us
+in deducing certain relations among different
+physical quantities and checking the derivation,
+accuracy and dimensional consistency or
+homogeneity of various mathematical
+expressions. When magnitudes of two or more
+physical quantities are multiplied, their units
+should be treated in the same manner as
+ordinary algebraic symbols. We can cancel
+identical units in the numerator and
+denominator. The same is true for dimensions
+of a physical quantity. Similarly, physical
+quantities represented by symbols on both sides
+of a mathematical equation must have the same
+dimensions.

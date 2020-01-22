@@ -1,0 +1,9 @@
+Now, let us consider the motion of a car that
+starts from rest at time t= O s from the origin 0
+and picks up speed till t = 10 s and thereafter
+moves with uniform speed till t = 18 s. Then the
+brakes are applied and the car stops at
+t= 20 s and x= 296 m. The position-time graph
+for this case is shown in Fig. 3.3. We shall refer
+to this graph in our discussion in the following
+sections.

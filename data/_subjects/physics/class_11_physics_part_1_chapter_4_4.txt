@@ -1,0 +1,38 @@
+4.5 RESOLUTION OF VECTORS
+
+Let a and b be any two non-zero vectors in a
+plane with different directions and let A be
+another vector in the same plane(Fig. 4.8). A can
+be expressed as a sum of two vectors — one
+obtained by multiplying a by a real number and
+the other obtained by multiplying b by another
+real number. To see this, let 0 and P be the tail
+and head of the vector A. Then, through 0, draw
+a straight line parallel to a, and through P, a
+straight line parallel to b. Let them intersect at
+Q. Then, we have
+
+A = or = 09 + QP (4.6)
+
+But since 09 is parallel to a, and QP is parallel
+to b, we can write :
+
+OQ =/la, and QP= ub (4.7)
+where /’L and u are real numbers.
+Therefore, A = )l a + ub (4.8)
+
+P
+R
+A “b
+$> 0
+la Q
+(a) (b)
+
+Fig. 4.8 (a) Two non—colinear vectors a and b.
+[b] Resolving a vectorA in terms of vectors
+
+a and b.
+
+We say that A has been resolved into two
+component vectors /’L a and u b along a and b
+respectively. Using this method one can resolve

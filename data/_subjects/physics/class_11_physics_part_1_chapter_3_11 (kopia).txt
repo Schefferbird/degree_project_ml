@@ -1,0 +1,19 @@
+Example 3.7 Stopping distance of
+vehicles : When brakes are applied to a
+moving vehicle. the distance it travels before
+stopping is called stopping distance. It is
+an important factor for road safety and
+
+depends on the initial velocity (v0) and the
+braking capacity, or deceleration. —a that
+is caused by the braking. Derive an
+expression for stopping distance of a vehicle
+in terms of v. and a.
+
+Answer Let the distance travelled by the vehicle
+before it stops be d8. Then, using equation of
+motion v2 = v02 + 2 ax, and noting that v = O, we
+have the stopping distance
+
+Thus, the stopping distance is proportional to
+the square of the initial velocity. Doubling the

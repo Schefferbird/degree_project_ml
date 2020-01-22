@@ -1,0 +1,10 @@
+2.7 SIGNIFICANT FIGURES
+
+As discussed above, every measurement
+involves errors. Thus, the result of
+measurement should be reported in a way that
+indicates the precision of measurement.
+Normally, the reported result of measurement
+is a number that includes all digits in the
+number that are known reliably plus the first
+digit that is uncertain. The reliable digits plus

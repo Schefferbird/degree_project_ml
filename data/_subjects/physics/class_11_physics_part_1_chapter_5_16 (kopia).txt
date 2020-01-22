@@ -1,0 +1,21 @@
+5.11 SOLVING PROBLEMS IN MECHANICS
+
+The three laws of motion that you have learnt in
+this chapter are the foundation of mechanics.
+You should now be able to handle a large variety
+of problems in mechanics. A typical problem in
+mechanics usually does not merely involve a
+single body under the action of given forces.
+More often, we will need to consider an assembly
+of different bodies exerting forces on each other.
+Besides, each body in the assembly experiences
+the force of gravity. When trying to solve a
+problem of this type, it is useful to remember
+the fact that we can choose any part of the
+assembly and apply the laws of motion to that
+part provided we include all forces on the chosen
+part due to the remaining parts of the assembly.
+We may call the chosen part of the assembly as
+the system and the remaining part of the
+assembly (plus any other agencies of forces) as
+the environment. We have followed the same

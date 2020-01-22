@@ -1,0 +1,26 @@
+Least count error
+
+The smallest value that can be measured by the
+measuring instrument is called its least count.
+All the readings or measured values are good only
+up to this value.
+
+The least count error is the error
+associated with the resolution of the instrument.
+For example, a vernier callipers has the least
+count as 0.01 cm; a spherometer may have a
+least count of 0.001 cm. Least count error
+belongs to the category of random errors but
+within a limited size; it occurs with both
+systematic and random errors. If we use a metre
+scale for measurement of length, it may have
+graduations at 1 mm division scale spacing or
+interval.
+
+Using instruments of higher precision,
+improving experimental techniques, etc., we can
+reduce the least count error. Repeating the
+observations several times and taking the
+arithmetic mean of all the observations, the
+mean value would be very close to the true value
+of the measured quantity.

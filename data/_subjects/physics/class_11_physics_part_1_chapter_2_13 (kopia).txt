@@ -1,0 +1,21 @@
+2.7. 1 Rules for Arithmetic Operations with
+Signiﬁcant Figures
+
+The result of a calculation involving approximate
+measured values of quantities (i.e. values with
+limited number of significant ﬁgures) must reﬂect
+the uncertainties in the original measured values.
+It cannot be more accurate than the original
+measured values themselves on which the result
+is based. In general, the final result should not
+have more significant figures than the original
+data from which it was obtained. Thus, if mass of
+an object is measured to be, say, 4.237 g (four
+significant figures) and its volume is measured to
+be 2.5 1 cm3, then its density, by mere arithmetic
+division, is 1 .6880478087 6 g/cm3 upto 1 1 decimal
+places. It would be clearly absurd and irrelevant
+to record the calculated value of density to such a
+precision when the measurements on which the
+value is based, have much less precision. The
+

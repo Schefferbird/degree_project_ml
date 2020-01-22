@@ -1,0 +1,23 @@
+In physics we study motion (change in position).
+At the same time, we try to discover physical
+quantities, which do not change in a physical
+process. The laws of momentum and energy
+conservation are typical examples. In this
+section we shall apply these laws to a commonly
+encountered phenomena, namely collisions.
+Several games such as billiards, marbles or
+carrom involve collisions.We shall study the
+collision of two masses in an idealised form.
+
+Consider two masses m1 and m2. The particle
+m1 is moving with speed 1)”, the subscript ‘i’
+implying initial. We can cosider m2 to be at rest.
+No loss of generality is involved in making such
+a selection. In this situation the mass m1
+collides with the stationary mass m2 and this
+is depicted in Fig. 6.10.
+
+The masses m1 and m2 ﬂy-off in different
+directions. We shall see that there are
+relationships, which connect the masses, the
+velocities and the angles.

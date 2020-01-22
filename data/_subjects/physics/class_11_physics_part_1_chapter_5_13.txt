@@ -1,0 +1,44 @@
+approximately true. Yet they are very useful in
+practical calculations in mechanics.
+
+Thus, when two bodies are in contact, each
+experiences a contact force by the other. Friction,
+by deﬁnition, is the component of the contact force
+parallel to the surfaces in contact, which opposes
+impending or actual relative motion between the
+two surfaces. Note that it is not motion, but
+relative motion that the frictional force opposes.
+Consider a box lying in the compartment of a train
+that is accelerating. If the box is stationary
+relative to the train, it is in fact accelerating along
+with the train. What forces cause the acceleration
+of the box? Clearly, the only conceivable force in
+the horizontal direction is the force of friction. If
+there were no friction, the ﬂoor of the train would
+slip by and the box would remain at its initial
+position due to inertia (and hit the back side of
+the train). This impending relative motion is
+opposed by the static friction f8. Static friction
+provides the same acceleration to the box as that
+of the train, keeping it stationary relative to the
+train.
+
+b Example 5.7 Determine the maximum
+acceleration of the train in which a box
+lying on its ﬂoor will remain stationary.
+
+given that the co—efficient of static friction
+
+between the box and the train‘s ﬂoor is
+0.15.
+
+
+Answer Since the acceleration of the box is due
+to the static friction,
+
+ma=fsSusN=us mg
+i.e. a<usg
+#59 =0.l5 xlOms‘2
+1.5 ms‘2 4
+
+.' amax

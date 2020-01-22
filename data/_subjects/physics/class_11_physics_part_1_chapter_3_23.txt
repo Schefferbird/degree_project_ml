@@ -1,0 +1,16 @@
+Integral Calculus
+
+You are familiar with the notion of area. The formulae for areas of simple geometrical figures are
+also known to you. For example, the area of a rectangle is length times breadth and that of a
+triangle is half of the product of base and height. But how to deal with the problem of determination
+of area of an irregular figure? The mathematical notion of integral is necessary in connection with
+such problems.
+
+Let us take a concrete example. Suppose a variable force f (x) acts on a particle in its motion
+along x - axis from x = a to x = b. The problem is to determine the work done (W) by the force on the
+particle during the motion. This problem is discussed in detail in Chapter 6.
+
+Figure 3.3 1 shows the variation of ﬁx) with x. If the force were constant, work would be simply
+the area F(b-a) as shown in Fig. 3.3l(i). But in the general case, force is varying .
+
+F(x) F F(x)

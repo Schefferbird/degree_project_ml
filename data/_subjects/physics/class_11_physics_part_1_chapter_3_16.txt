@@ -1,0 +1,18 @@
+The path length traversed by an object between two points is. in general, not the same
+as the magnitude of displacement. The displacement depends only on the end points:
+the path length (as the name implies) depends on the actual path. In one dimension.
+the two quantities are equal only if the object does not change its direction during the
+course of motion. In all other cases. the path length is greater than the magnitude of
+displacement.
+
+In view of point I above. the average speed of an object is greater than or equal to the
+magnitude of the average velocity over a given time interval. The two are equal only if
+the path length is equal to the magnitude of displacement.
+
+The origin and the positive direction of an axis are a matter of choice. You should first
+specify this choice before you assign signs to quantities like displacement. velocity
+and acceleration.
+
+If a particle is speeding up. acceleration is in the direction of velocity: if its speed is
+decreasing. acceleration is in the direction opposite to that of the velocity. This
+statement is independent of the choice of the origin and the axis.

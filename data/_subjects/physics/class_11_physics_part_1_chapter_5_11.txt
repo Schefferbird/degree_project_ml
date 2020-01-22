@@ -1,0 +1,27 @@
+Answer Figures 5.8(b) and 5.8(c) are known as
+free-body diagrams. Figure 5.8(b) is the free-body
+diagram of W and Fig. 5.8(c) is the free-body
+diagram of point P.
+
+Consider the equilibrium of the weight W.
+Clearly,T2 = 6 X 10 = 60 N.
+
+Consider the equilibrium of the point P under
+the action of three forces - the tensions T1 and
+T2, and the horizontal force 50 N. The horizontal
+and vertical components of the resultant force
+must vanish separately :
+
+Tlcos0= T2 = SON
+T sin 0 = 50 N
+
+1
+
+which gives that
+
+tan0 = E or 6 = tan"1 (5) = 40°
+6 6
+Note the answer does not depend on the length
+
+of the rope (assumed massless) nor on the point
+at which the horizontal force is applied. 4

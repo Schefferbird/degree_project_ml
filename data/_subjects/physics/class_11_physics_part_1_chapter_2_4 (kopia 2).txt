@@ -1,0 +1,21 @@
+If we assume that the ﬁlm has mono-molecular
+thickness, then this becomes the size or diameter
+of a molecule of oleic acid. The value of this
+thickness comes out to be of the order of 10'9 m.
+
+Example 2.5 If the size of a nucleus (in
+the range of 10‘15 to 10‘14 n1) is scaled up
+to the tip of a sharp pin. what roughly is
+
+the size of an atom ? Assume tip of the pin
+to be in the range lO’sm t0 10’4m.
+
+ 
+Answer The size of a nucleus is in the range of
+10'15 m and 10'14 m. The tip of a sharp pin is
+taken to be in the range of 10'5 m and 10'4 m.
+Thus we are scaling up by a factor of 1010. An
+atom roughly of size 10'10 m will be scaled up to a
+size of 1 m. Thus a nucleus in an atom is as small
+in size as the tip of a sharp pin placed at the centre
+of a sphere of radius about a metre long. 4

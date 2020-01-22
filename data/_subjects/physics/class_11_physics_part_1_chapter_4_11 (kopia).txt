@@ -1,0 +1,38 @@
+4.9 REIATIVE VELOCITY IN TWO
+DIMENSIONS
+
+The concept of relative velocity, introduced in
+section 3.7 for motion along a straight line, can
+be easily extended to include motion in a plane
+or in three dimensions. Suppose that two objects
+A and B are moving with velocities vA and vB
+(each with respect to some common frame of
+reference, say ground.). Then, velocity of object
+A relative to that of B is :
+
+VAB= vA—vB (4.35a)
+
+and similarly, the velocity of object B relative to
+that ofA is :
+
+vBA = VB_ VA
+Therefore, vAB = — vBA (4.35b)
+and, MB] = vaA‘ (4.35c)
+
+ 
+
+b Example 4.6 Rain is falling vertically with
+a speed of 35 m 5‘1. A woman rides a bicycle
+with a speed of 12 m 5'1 in east to west
+direction. What is the direction in which
+she should hold her umbrella ‘?
+
+
+
+Answer In Fig. 4.16 vr represents the velocity
+of rain and vb , the velocity of the bicycle, the
+woman is riding. Both these velocities are with
+respect to the ground. Since the woman is riding
+a bicycle, the velocity of rain as experienced by
+
+ 

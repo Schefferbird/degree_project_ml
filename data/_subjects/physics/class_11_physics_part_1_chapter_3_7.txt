@@ -1,0 +1,24 @@
+that the acceleration is nonuniform over the
+period 0 s to 10 s. It is zero between 10 s and
+18 s and is constant with value —12 m S'2
+between 18 s and 20 s. When the acceleration
+is uniform, obviously, it equals the average
+acceleration over that period.
+
+Since velocity is a quantity having both
+magnitude and direction, a change in velocity
+may involve either or both of these factors.
+Acceleration, therefore, may result from a
+change in speed (magnitude), a change in
+direction or changes in both. Like velocity,
+acceleration can also be positive, negative or
+zero. Position-time graphs for motion with
+positive, negative and zero acceleration are
+shown in Figs. 3.9 (a), (b) and (c), respectively.
+Note that the graph curves upward for positive
+acceleration; downward for negative
+acceleration and it is a straight line for zero
+acceleration. As an exercise, identify in Fig. 3.3,
+the regions of the curve that correspond to these
+three cases.
+

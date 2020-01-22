@@ -1,0 +1,44 @@
+a rectangular coordinate system consisting of
+three mutually perpenducular axes, labelled X-,
+Y-, and Z- axes. The point of intersection of these
+three axes is called origin (0) and serves as the
+reference point. The coordinates (x, y. z) of an
+object describe the position of the object with
+respect to this coordinate system. To measure
+time, we position a clock in this system. This
+coordinate system along with a clock constitutes
+a frame of reference.
+
+If one or more coordinates of an object change
+with time, we say that the object is in motion.
+Otherwise, the object is said to be at rest with
+respect to this frame of reference.
+
+The choice of a set of axes in a frame of
+reference depends upon the situation. For
+example, for describing motion in one dimension,
+we need only one axis. To describe motion in
+two/ three dimensions, we need a set of two/
+three axes.
+
+Description of an event depends on the frame
+of reference chosen for the description. For
+example, when you say that a car is moving on
+a road, you are describing the car with respect
+to a frame of reference attached to you or to the
+ground. But with respect to a frame of reference
+attached with a person sitting in the car, the
+car is at rest.
+
+To describe motion along a straight line, we
+can choose an axis, say X-axis, so that it
+coincides with the path of the object. We then
+measure the position of the object with reference
+to a conveniently chosen origin, say O, as shown
+in Fig. 3.1. Positions to the right of O are taken
+as positive and to the left of O, as negative.
+Following this convention, the position
+coordinates of point P and Q in Fig. 3.1 are +360
+m and +240 m. Similarly, the position coordinate
+of point R is —120 m.
+

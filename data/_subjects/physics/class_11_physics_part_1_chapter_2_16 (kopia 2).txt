@@ -1,0 +1,24 @@
+Now we can test the dimensional consistency
+or homogeneity of the equation
+
+x=x0 +v0 t+(l/2)at2
+for the distance x travelled by a particle or body
+in time twhich starts from the position x0 with
+an initial velocity Do at time t= O and has uniform
+acceleration a along the direction of motion.
+The dimensions of each term may be written as
+
+[x] = [L]
+[x0] = [L]
+[Do 13] = [L "I‘ll [T]
+= [L]
+[(1/2) a t2] = [LT2] [T2]
+= [L]
+
+As each term on the right hand side of this
+equation has the same dimension, namely that
+of length, which is same as the dimension of
+left hand side of the equation, hence this
+equation is a dimensionally correct equation.
+It may be noted that a test of consistency of
+dimensions tells us no more and no less than a

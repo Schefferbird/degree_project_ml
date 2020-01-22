@@ -1,0 +1,37 @@
+Ideas on Motion in Ancient Indian Science
+
+
+Ancient Indian thinkers had arrived at an elaborate system of ideas on motion. Force. the cause of
+motion. was thought to be of diﬁerent kinds : force due to continuous pressure [nodan]. as the force
+of wind on a sailing vessel; impact [abhighat). as when a potter's rod strikes the wheel: persistent
+tendency [sanskara] to move in a straight line(vega) or restoration of shape in an elastic body:
+transmitted force by a string. rod. etc. The notion of (vega) in the Vaisesika theory of motion perhaps
+comes closest to the concept of inertia. Vega. the tendency to move in a straight line. was thought to
+be opposed by contact with objects including atmosphere. a parallel to the ideas of friction and air
+resistance. It was correctly summarised that the different kinds of motion (translational. rotational
+and vibrational) of an extended body arise from only the translational motion of its constituent
+particles. A falling leaf in the wind may have downward motion as a whole [patan) and also rotational
+and vibrational motion [bhraman. spandan). but each particle of the leaf at an instant only has a
+deﬁnite (small) displacement. There was considerable focus in Indian thought on measurement of
+motion and units of length and time. It was known that the position of a particle in space can be
+indicated by distance measured along three axes. Bhaskara [1150 AD.) had introduced the concept
+of ‘instantaneous motion' [tatkaliki gati']. which anticipated the modem notion of instantaneous
+velocity using Differential Calculus. The difference between a wave and a current (of water) was clearly
+understood: a current is a motion of particles of water under gravity and ﬂuidity while a wave results
+
+no net force acting on the body. It is incorrect to
+assume that a net force is needed to keep a body
+in uniform motion. To maintain a body in
+uniform motion, we need to apply an external
+force to ecounter the frictional force, so that
+the two forces sum up to zero net external
+force.
+
+To summarise, if the net external force is zero,
+a body at rest continues to remain at rest and a
+body in motion continues to move with a uniform
+velocity. This property of the body is called
+inertia. Inertia means ‘resistance to change’.
+A body does not change its state of rest or
+uniform motion, unless an external force
+compels it to change that state.

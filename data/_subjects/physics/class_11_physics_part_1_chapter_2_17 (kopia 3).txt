@@ -1,0 +1,47 @@
+2.10.2 Deducing Relation among the
+Physical Quantities
+
+The method of dimensions can sometimes be
+used to deduce relation among the physical
+quantities. For this we should know the
+dependence of the physical quantity on other
+quantities (upto three physical quantities or
+linearly independent variables) and consider it
+as a product type of the dependence. Let us take
+an example.
+
+Example 2.1 7 Consider a simple
+pendulum. having 3 bob attached to a
+string. that oscillates under the action of
+the force of gravity. Suppose that the period
+
+of oscillation of the simple pendulum
+depends on its length (1). mass of the bob
+(m) and acceleration due to gravity (g).
+Derive the expression for its time period
+using method of dimensions.
+
+ 
+
+Answer The dependence of time period T on
+the quantities l, g and m as a product may be
+written as :
+
+T = k l" 914 ml
+where k is dimensionless constant and x, y
+and z are the exponents.
+
+By considering dimensions on both sides, we
+have
+
+[Lo MUT1]=[L1 1x [L1 T~21y [M112
+
+= Lx+y T—Zy Mz
+
+On equating the dimensions on both sides,
+we have
+
+x+y=O;—2y=l;andz=0
+s thtx-l -—lz-0
+o a 2y 2,
+Then, T= kl” g'VZ

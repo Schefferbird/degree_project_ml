@@ -1,0 +1,30 @@
+POINTS TO PONDER
+
+1. The path length traversed by an object between two points is. in general. not the same as
+the magnitude of displacement. The displacement depends only on the end points; the
+path length (as the name implies) depends on the actual path. The two quantities are
+equal only if the object does not change its direction during the course of motion. In all
+other cases. the path length is greater than the magnitude of displacement.
+
+2. In View of point 1 above. the average speed of an object is greater than or equal to the
+magnitude of the average velocity over a given time interval. The two are equal only if the
+path length is equal to the magnitude of displacement.
+
+3. The vector equations [4.3321] and (4.34a) do not involve any choice of axes. Of course,
+you can always resolve them along any two independent axes.
+
+4. The kinematic equations for uniform acceleration do not apply to the case of uniform
+circular motion since in this case the magnitude of acceleration is constant but its
+direction is changing.
+
+5. An object subjected to two velocities v1 and v2 has a resultant velocity v = vl + v2. Take
+care to distinguish it from velocity of object 1 relative to velocity of object 2 : v1.2: vl — v2.
+Here v1 and v2 are velocities with reference to some common reference frame.
+
+6. The resultant acceleration of an object in circular motion is towards the centre only if
+the speed is constant.
+
+7. The shape of the trajectory of the motion of an object. is not determined by the acceleration
+alone but also depends on the initial conditions of motion [ initial position and initial
+velocity). For example. the trajectory of an object moving under the same acceleration
+due to gravity can be a straight line or a parabola depending on the initial conditions.

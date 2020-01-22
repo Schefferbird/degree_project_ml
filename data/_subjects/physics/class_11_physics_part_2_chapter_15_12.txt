@@ -1,0 +1,32 @@
+If on the other hand, the boundary point is
+not rigid but completely free to move (such as in
+the case of a string tied to a freely moving ring
+on a rod), the reﬂected pulse has the same phase
+and amplitude (assuming no energy dissipation)
+as the incident pulse. The net maximum
+displacement at the boundary is then twice the
+amplitude of each pulse. An example of non- rigid
+boundary is the open end of an organ pipe.
+
+To summarise, a travelling wave or pulse
+suffers a phase change of 7c on reﬂection at a
+rigid boundary and no phase change on
+reﬂection at an open boundary. To put this
+mathematically, let the incident travelling wave
+be
+
+y2(x,t) = asin(kx—a)t)
+
+At a rigid boundary, the reﬂected wave is given
+by
+yr(x, t) = a sin (kx— wt + 7:).
+= — asin (kx—wt) (15.35)
+At an open boundary, the reﬂected wave is given
+by
+yr(x, t) = a sin (kx— wt + O).
+= asin (kx—wt) (15.36)
+
+Clearly, at the rigid boundary, y = y2 + yr 2 0
+
+at all times.
+

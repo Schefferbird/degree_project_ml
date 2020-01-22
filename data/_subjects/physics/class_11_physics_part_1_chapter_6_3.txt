@@ -1,0 +1,29 @@
+The work done by the force is deﬁned to be
+the product of component of the force in the
+direction of the displacement and the
+magnitude of this displacement. Thus
+
+W= (Fcos 0)d= Rd (6.4)
+
+We see that if there is no displacement, there
+is no work done even if the force is large. Thus,
+when you push hard against a rigid brick wall,
+the force you exert on the wall does no work. Yet
+your muscles are alternatively contracting and
+relaxing and internal energy is being used up
+and you do get tired. Thus, the meaning of work
+in physics is different from its usage in everyday
+language.
+
+No work is done if :
+
+(i) the displacement is zero as seen in the
+example above. A weightlifter holding a 150
+kg mass steadily on his shoulder for 30 s
+does no work on the load during this time.
+
+(ii) the force is zero. A block moving on a smooth
+horizontal table is not acted upon by a
+horizontal force (since there is no friction), but
+may undergo a large displacement.
+

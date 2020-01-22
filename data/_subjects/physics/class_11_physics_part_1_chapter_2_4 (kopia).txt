@@ -1,0 +1,24 @@
+microscopes with a resolution of 0.6 A have been
+built. They can almost resolve atoms and
+molecules in a material. In recent times,
+tunnelling microscopy has been developed in
+which again the limit of resolution is better than
+an angstrom. It is possible to estimate the sizes
+of molecules.
+
+A simple method for estimating the molecular
+size of oleic acid is given below. Oleic acid is a
+soapy liquid with large molecular size of the
+order of 10'9m.
+
+The idea is to first form mono-molecular layer
+of oleic acid on water surface.
+
+We dissolve 1 cm3 of oleic acid in alcohol to
+make a solution of 20 cm3. Then we take 1 cm3
+of this solution and dilute it to 20 cm3, using
+alcohol. So, the concentration of the solution is
+
+1
+20x20
+

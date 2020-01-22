@@ -1,0 +1,41 @@
+(1) For example, the length 2.308 cm has four
+significant figures. But in different units, the
+same value can be written as 0.02308 m or 23.08
+
+mm or 23080 um.
+
+All these numbers have the same number of
+significant figures (digits 2, 3, 0, 8), namely four.
+This shows that the location of decimal point is
+of no consequence in determining the number
+of significant figures.
+
+The example gives the following rules :
+
+0 All the non-zero digits are signiﬁcant.
+
+0 All the zeros between two non-zero digits
+are significant, no matter where the
+decimal point is, if at all.
+
+0 If the number is less than 1, the zero(s)
+
+on the right of decimal point but to the
+left of the ﬁrst non-zero digit are not
+signiﬁcant. [In 0% 2308, the underlined
+zeroes are not significant].
+
+0 The terminal or trailing zero(s) in a
+
+number without a decimal point are not
+significant.
+[Thus 123 m = 12300 cm = 123000 mm has
+three significant figures, the trailing zero(s)
+being not significant.] However, you can also
+see the next observation.
+
+0 The trailing zero(s) in a number with a
+decimal point are signiﬁcant.
+[The numbers 3.500 or 0.06900 have four
+significant figures each.]
+

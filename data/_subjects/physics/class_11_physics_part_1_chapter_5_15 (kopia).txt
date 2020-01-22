@@ -1,0 +1,28 @@
+Motion of a car on a banked road
+
+We can reduce the contribution of friction to the
+circular motion of the car if the road is banked
+(Fig. 5. l4(b)). Since there is no acceleration along
+the vertical direction, the net force along this
+direction must be zero. Hence,
+
+Ncos 0 = mg +fsin 6 (5.19a)
+The centripetal force is provided by the horizontal
+components of N and f.
+mv2
+
+R
+
+ 
+
+Nsin 0 +fcos 0 = (5.19b)
+
+But f s ysN
+
+Thus to obtain vmax we put
+
+f=%N-
+
+Then Eqs. (5. 19a) and (5. 19b) become
+
+Ncos g = mg+ #SN sin 0 (5.20a)

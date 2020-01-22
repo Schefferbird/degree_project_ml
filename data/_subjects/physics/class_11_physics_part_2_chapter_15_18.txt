@@ -1,0 +1,14 @@
+stationary but the source is moving, (2) observer
+is moving but the source is stationary, and (3)
+both the observer and the source are moving.
+The situations (1) and (2) differ from each other
+because of the absence or presence of relative
+motion between the observer and the medium.
+Most waves require a medium for their
+propagation; however, electromagnetic waves do
+not require any medium for propagation. If there
+is no medium present, the Doppler shifts are
+same irrespective of whether the source moves
+or the observer moves, since there is no way of
+distinction between the two situations.
+

@@ -1,0 +1,29 @@
+5.6 NEWTON’S THIRD LAW OF MOTION
+
+The second law relates the external force on a
+body to its acceleration. What is the origin of the
+external force on the body ? What agency
+provides the external force ? The simple answer
+in Newtonian mechanics is that the external
+force on a body always arises due to some other
+body. Consider a pair of bodies A and B. B gives
+rise to an external force on A. A natural question
+is: Does A in turn give rise to an external force
+on B ? In some examples, the answer seems
+clear. If you press a coiled spring, the spring is
+compressed by the force of your hand. The
+compressed spring in turn exerts a force on your
+hand and you can feel it. But what if the bodies
+are not in contact ? The earth pulls a stone
+downwards due to gravity. Does the stone exert
+a force on the earth ? The answer is not obvious
+since we hardly see the effect of the stone on the
+earth. The answer according to Newton is: Yes,
+the stone does exert an equal and opposite force
+on the earth. We do not notice it since the earth
+is very massive and the effect of a small force on
+its motion is negligible.
+
+Thus, according to Newtonian mechanics,
+force never occurs singly in nature. Force is the
+mutual interaction between two bodies. Forces

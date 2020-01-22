@@ -1,0 +1,11 @@
+6.4 KINETIC ENERGY
+
+As noted earlier, if an object of mass m has
+velocity v, its kinetic energy K is
+
+1 1 2
+K = —mv.v = —mv _
+2 2 (6 5)
+
+Kinetic energy is a scalar quantity. The kinetic
+energy of an object is a measure of the work an

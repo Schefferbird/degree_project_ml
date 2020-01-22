@@ -1,0 +1,41 @@
+Fig. 4.15 The average acceleration for three time intervals (a) Atl, [b] AtZ, and [0] M3, (At 1> At2> At3). [d] In the
+limitAt —> 0, the average acceleration becomes the acceleration.
+
+Note that in one dimension, the velocity and
+the acceleration of an object are always along
+the same straight line (either in the same
+direction or in the opposite direction).
+However, for motion in two or three
+dimensions, velocity and acceleration vectors
+may have any angle between 0° and 180°
+between them.
+
+} Example 4.4 The position of a particle is
+given by
+
+r = 3.0, i + 2.0th + 5.012
+Where tis in seconds and the coefficients
+
+have the proper units for r to be in metres.
+(a) Find v(t) and a(t) of the particle. (b) Find
+the magnitude and direction of v(t) at
+t= 1.0 s.
+
+ 
+
+Answer
+Cir C] A 2 A A
+v(t) =—=— 3.0 ti+2.0t j+5.0 k
+dt dt
+=3.oi+4.0t3
+dv .
+a (t) = — = +4.0j
+dt
+
+a = 4.0 m S'2 along y- direction
+
+At t= 1.0 s, v=3,oi+4,oj
+
+It’s magnitude is v = J32 + 42 = 5.0 m s’1
+and direction is
+

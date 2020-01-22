@@ -1,0 +1,15 @@
+return after reﬂection at the Moon’s surface. How much is the radius of the lunar
+orbit around the Earth ?
+
+2.30 A SONAR [sound navigation and ranging) uses ultrasonic waves to detect and locate
+objects under water. In a submarine equipped with a SONAR, the time delay between
+generation of a probe wave and the reception of its echo after reﬂection from an
+enemy submarine is found to be 77.0 s. What is the distance of the enemy submarine?
+(Speed of sound in water = 1450 m s4].
+
+2.3.1 The farthest objects in our Universe discovered by modern astronomers are so distant
+that light emitted by them takes billions of years to reach the Earth. These objects
+[known as quasars] have many puzzling features, which have not yet been satisfactorily
+explained. What is the distance in km of a quasar from which light takes 3.0 billion
+years to reach us ?
+

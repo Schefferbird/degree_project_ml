@@ -1,0 +1,56 @@
+' In the preceding observations, the vector
+character of momentum has not been evident.
+In the examples so far, momentum and change
+in momentum both have the same direction.
+But this is not always the case. Suppose a
+stone is rotated with uniform speed in a
+horizontal plane by means of a string, the
+magnitude of momentum is fixed, but its
+direction changes (Fig. 5.4). A force is needed
+to cause this change in momentum vector.
+
+This force is provided by our hand through
+the string. Experience suggests that our hand
+needs to exert a greater force if the stone is
+rotated at greater speed or in a circle of
+smaller radius, or both. This corresponds to
+greater acceleration or equivalently a greater
+rate of change in momentum vector. This
+suggests that the greater the rate of change
+in momentum vector the greater is the force
+applied.
+
+
+Fig. 5.4 Force is necessary for changing the direction
+of momentum, even if its magnitude is
+constant. We can feel this while rotating a
+stone in a horizontal circle with unifomi speed
+by means of a string.
+
+These qualitative observations lead to the
+second law of motion expressed by Newton as
+follows:
+
+The rate of change of momentum of a body is
+directly proportional to the applied force and
+takes place in the direction in which the force
+acts.
+
+Thus, if under the action of a force F for time
+interval At, the velocity of a body of mass m
+changes from v to v + Av i.e. its initial momentum
+
+p = m v changes by Ap = mAv . According to the
+Second Law,
+
+Focﬂ or F =kA—P
+At At
+
+where k is a constant of proportionality. Taking
+
+the limit At —> O, the term ﬂ becomes the
+
+At
+derivative or differential co-efficient of p with
+
+respect to t, denoted by % . Thus

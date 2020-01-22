@@ -1,0 +1,27 @@
+If a particle is speeding up. acceleration is in the direction of velocity: if its speed is
+decreasing. acceleration is in the direction opposite to that of the velocity. This
+statement is independent of the choice of the origin and the axis.
+
+The sign of acceleration does not tell us whether the particle's speed is increasing or
+decreasing. The sign of acceleration (as mentioned in point 3) depends on the choice
+of the positive direction of the axis. For example. if the vertically upward direction is
+chosen to be the positive direction of the axis, the acceleration due to gravity is
+negative. If a particle is falling under gravity. this acceleration. though negative.
+results in increase in speed. For a particle thrown upward. the same negative
+acceleration [of gravity) results in decrease in speed.
+
+The zero velocity of a particle at any instant does not necessarily imply zero acceleration
+at that instant. A particle may be momentarily at rest and yet have non—zero
+acceleration. For example. a particle thrown up has zero velocity at its uppermost
+point but the acceleration at that instant continues to be the acceleration due to
+gravity.
+
+In the kinematic equations of motion [Eq. (3.1 1]]. the various quantities are algebraic,
+i.e. they may be positive or negative. The equations are applicable in all situations
+[for one dimensional motion with constant acceleration) provided the values of different
+quantities are substituted in the equations with proper signs.
+
+The definitions of instantaneous velocity and acceleration [Eqs. (3.3) and (3.5)] are
+exact and are always correct while the kinematic equations [Eq. [3. l 1]) are true only
+for motion in which the magnitude and the direction of acceleration are constant
+during the course of motion.

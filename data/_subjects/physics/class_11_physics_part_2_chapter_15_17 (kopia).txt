@@ -1,0 +1,61 @@
+15.8 DOPPLER EFFECT
+
+It is an everyday experience that the pitch (or
+frequency) of the whistle of a fast moving train
+
+Reﬂection of sound in an open
+pipe
+When a high
+pressure pulse of
+air travelling down
+an open pipe
+reaches the other
+end, its momentum
+drags the air out
+into the open, where
+
+7 pressure falls
+rapidly to the
+~' atmospheric
+
+pressure. As a
+result the air following after it in the tube is
+pushed out. The low pressure at the end of
+the tube draws air from further up the tube.
+The air gets drawn towards the open end
+forcing the low pressure region to move
+upwards. As a result a pulse of high pressure
+air travelling down the tube turns into a
+pulse of low pressure air travelling up the
+tube. We say a pressure wave has been
+reﬂected at the open end with a change in
+phase of 180°. Standing waves in an open
+pipe organ like the ﬂute is a result of this
+phenomenon.
+
+Compare this with what happens when
+a pulse of high pressure air arrives at a
+closed end: it collides and as a result pushes
+the air back in the opposite direction. Here.
+we say that the pressure wave is reﬂected.
+with no change in phase.
+
+
+decreases as it recedes away. When we
+approach a stationary source of sound with high
+speed, the pitch of the sound heard appears to
+be higher than that of the source. As the
+observer recedes away from the source, the
+observed pitch (or frequency) becomes lower
+than that of the source. This motion-related
+frequency change is called Doppler effect. The
+Austrian physicist Johann Christian Doppler
+first proposed the effect in 1842. Buys Ballot in
+Holland tested it experimentally in 1845.
+Doppler effect is a wave phenomenon, it holds
+not only for sound waves but also for
+electromagnetic waves. However, here we shall
+consider only sound waves.
+
+We shall analyse changes in frequency under
+three different situations: (1) observer is

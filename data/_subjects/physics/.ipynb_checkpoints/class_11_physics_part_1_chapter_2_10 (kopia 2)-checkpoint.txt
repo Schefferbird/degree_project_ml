@@ -1,0 +1,25 @@
+Answer t’ = t2—t1 = (50 0C105 0C)— (200Ci0.5 0C)
+t’ = 30 0C i l 0C {
+(b) Error of a product or a quotient
+
+Suppose Z = AB and the measured values of A
+and B are A 1 AA and B i AB. Then
+
+ZiAZ= (AiAA) (BiAB)
+=ABi BAAiAABiAAAB.
+Dividing LHS by Z and RHS by AB we have,
+li(AZ/ZJ = l i (AA/A) i (AB/B) i (AA/A)(AB/B).
+
+Since AA and AB are small, we shall ignore their
+product.
+
+Hence the maximum relative error
+AZ/ Z= (AA/A) + (AB/B).
+
+You can easily verify that this is true for division
+also.
+
+Hence the rule : When two quantities are
+multiplied or divided, the relative error in the
+result is the sum of the relative errors in the
+multipliers.

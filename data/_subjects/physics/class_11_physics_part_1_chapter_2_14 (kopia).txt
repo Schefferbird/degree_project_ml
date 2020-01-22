@@ -1,0 +1,25 @@
+In any involved or complex multi-step
+calculation, you should retain, in intermediate
+steps, one digit more than the significant digits
+and round off to proper significant figures at the
+end of the calculation. Similarly, a number
+known to be within many significant figures,
+such as in 2.99792458 x 108 m/s for the speed
+of light in vacuum, is rounded off to an
+approximate value 3 x 108 m/s , which is often
+employed in computations. Finally, remember
+that exact numbers that appear in formulae like
+of significant figures. The value of 7t =
+3.1415926... is known to a large number of
+significant figures. You may take the value as
+3.142 or 3.14 for 7c, with limited number of
+significant figures as required in specific
+cases.
+
+Example 2.13 Each side of a cube is
+measured to be 7.203 m. What are the
+
+total surface area and the volume of the
+cube to appropriate significant ﬁgures?
+
+ 

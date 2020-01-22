@@ -1,0 +1,54 @@
+b Example 6.2 It is well known that a
+raindrop falls under the inﬂuence of the
+downward gravitational force and the
+opposing resistive force. The latter is known
+
+2019-20
+
+to be proportional to the speed of the drop
+but is otherwise undetermined. Consider
+a drop of mass 1.00 g falling from a height
+1.00 km. It hits the ground with a speed of
+50.0 m s ’. (a) What is the work done by the
+gravitational force ? What is the work done
+by the unknown resistive force?
+
+ 
+
+Answer (a) The change in kinetic energy of the
+drop is
+
+AK=lmv2 —O
+2
+1 —3
+25x10 x50><50
+=1.25J
+
+where we have assumed that the drop is initially
+at rest.
+
+Assuming that g is a constant with a value
+10 m / s2, the work done by the gravitational force
+is,
+
+W = mgh
+9
+= 10'3 x10 ><103
+= 10.0 J
+
+(b) From the work-energy theorem
+AK : Wg + Wr
+where WT is the work done by the resistive force
+on the raindrop. Thus
+Wr = AK — W9
+= 1.25 — 10
+= — 8.75 J
+
+is negative. 4
+6.3 WORK
+
+As seen earlier, work is related to force and the
+displacement over which it acts. Consider a
+constant force F acting on an object of mass m.
+The object undergoes a displacement d in the
+positive x—direction as shown in Fig. 6.2.

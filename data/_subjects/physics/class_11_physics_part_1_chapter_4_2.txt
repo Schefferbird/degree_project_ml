@@ -1,0 +1,12 @@
+Fig. 4.2 [a] Two equal vectors A and B. (b) Two
+vectors A’ and B’ are unequal though they
+are of the same length.
+
+as A = B. Note that in Fig. 4.2(b), vectors A’ and
+B’ have the same magnitude but they are not
+equal because they have different directions.
+Even if we shift B’ parallel to itself so that its tail
+9’ coincides with the tail 0’ of A’ , the tip S’ of B’
+
+does not coincide with the tip P’ of A’ .
+

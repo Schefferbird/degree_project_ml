@@ -1,0 +1,30 @@
+12.2.3 Molecular Diagnosis
+
+You know that for effective treatment of a disease, early diagnosis and
+understanding its pathophysiology is very important. Using conventional
+methods of diagnosis (serum and urine analysis, etc.) early detection is
+not possible. Recombinant DNA technology, Polymerase Chain Reaction
+(PCR) and Enzyme Linked Immuno-sorbent Assay (ELISA) are some of
+the techniques that serve the purpose of early diagnosis.
+
+Presence of a pathogen (bacteria, Viruses, etc.) is normally suspected
+only when the pathogen has produced a disease symptom. By this time
+the concentration of pathogen is already very high in the body. However,
+very low concentration of a bacteria or Virus (at a time when the symptoms
+of the disease are not yet visible) can be detected by ampliﬁcation of their
+nucleic acid by PCR. Can you explain how PCR can detect very low
+amounts of DNA? PCR is now routinely used to detect HIV in suspected
+AIDS patients. It is being used to detect mutations in genes in suspected
+cancer patients too. It is a powerful techqnique to identify many other
+genetic disorders.
+
+A single stranded DNA or RNA, tagged with a radioactive molecule
+(probe) is allowed to hybridise to its complementary DNA in a clone of
+cells followed by detection using autoradiography. The clone having the
+mutated gene will hence not appear on the photographic ﬁlm, because
+the probe will not have complementarity with the mutated gene.
+
+ELISA is based on the principle of antigen-antibody interaction.
+Infection by pathogen can be detected by the presence of antigens
+(proteins, glycoproteins, etc.) or by detecting the antibodies synthesised
+against the pathogen.

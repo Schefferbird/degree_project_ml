@@ -1,0 +1,36 @@
+Although acceleration can vary with time,
+our study in this chapter will be restricted to
+motion with constant acceleration. In this case,
+the average acceleration equals the constant
+value of acceleration during the interval. If the
+velocity of an object is v at t= O and v at time t,
+we have 0
+
+Let us see how velocity-time graph looks like
+for some simple cases. Fig. 3.10 shows velocity-
+time graph for motion with constant acceleration
+for the following cases :
+
+(a) An object is moving in a positive direction
+with a positive acceleration, for example
+the motion of the car in Fig. 3.3 between
+t= O sand t= 10 s.
+
+(b) An object is moving in positive direction
+with a negative acceleration, for example,
+motion of the car in Fig 3.3 between
+1:: 18 s and 20 s.
+
+(c) An object is moving in negative direction
+with a negative acceleration, for example
+the motion of a car moving from O in Fig.
+3.1 in negative x-direction with
+increasing speed.
+
+(d) An object is moving in positive direction
+till time t1, and then turns back with the
+same negative acceleration, for example
+the motion of a car from point 0 to point
+Q in Fig. 3.1 till time t1 with decreasing
+speed and turning back and moving with
+the same negative acceleration.

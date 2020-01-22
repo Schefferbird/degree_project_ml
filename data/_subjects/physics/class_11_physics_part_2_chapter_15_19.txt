@@ -1,0 +1,14 @@
+reference frame of the moving observer. In this
+reference frame the source and medium are
+approaching at speed 1),, and the speed with
+which the wave approaches is 1),, + v. Following
+a similar procedure as in the previous case, we
+find that the time interval between the arrival
+of the first and the (n+1) th crests is
+
+
+If :0 is small, the Doppler shift is almost same
+
+whether it is the observer or the source moving
+since Eq. (15.53) and the approximate relation
+Eq. (15.51 ) are the same.

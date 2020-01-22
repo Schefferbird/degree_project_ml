@@ -1,0 +1,26 @@
+6.10.1 Heat
+
+We have seen that the frictional force is not a
+conservative force. However, work is associated
+with the force of friction, Example 6.5. A block of
+mass m sliding on a rough horizontal surface
+with speed v0 comes to a halt over a distance x0.
+The work done by the force of kinetic friction f
+over x0 is —f x0. By the work-energy theorem
+
+mug/2 = fxo- If we confine our scope to
+mechanics, we would say that the kinetic energy
+of the block is ‘lost’ due to the frictional force.
+On examination of the block and the table we
+would detect a slight increase in their
+temperatures. The work done by friction is not
+‘lost’, but is transferred as heat energy. This
+raises the internal energy of the block and the
+table. In winter, in order to feel warm, we
+generate heat by vigorously rubbing our palms
+together. We shall see later that the internal
+energy is associated with the ceaseless, often
+random, motion of molecules. A quantitative idea
+of the transfer of heat energy is obtained by
+noting that 1 kg of water releases about 42000 J
+of energy when it cools by10 °C.

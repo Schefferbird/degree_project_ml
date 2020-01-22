@@ -1,0 +1,60 @@
+6.2 NOTIONS OF WORK AND KINETIC ENERGY: THE WORK-ENERGY THEOREM
+
+
+The following relation for rectilinear motion under
+constant acceleration a has been encountered
+in Chapter 3,
+
+v2 — u2 = 2 as (6.2)
+
+where u and v are the initial and final speeds
+and s the distance traversed. Multiplying both
+sides by m/ 2, we have
+
+1 2 1 2
+
+—mv ——mu =mas=Fs ,
+
+2 2 (6 2a)
+where the last step follows from Newton’s Second
+Law. We can generalise Eq. (6.2) to three
+
+dimensions by employing vectors
+
+v2— u2= 2 a.d
+
+Here a and d are acceleration and displacement
+
+vectors of the object respectively.
+
+Once again multiplying both sides by m/ 2 , we obtain
+1 2 l
+
+Emu Emu2 = m a.d = F.d (6,2b)
+
+The above equation provides a motivation for
+the definitions of work and kinetic energy. The
+left side of the equation is the difference in the
+quantity ‘half the mass times the square of the
+speed’ from its initial value to its final value. We
+call each of these quantities the ‘kinetic energy’,
+denoted by K. The right side is a product of the
+displacement and the component of the force
+along the displacement. This quantity is called
+‘work’ and is denoted by W. Eq. (6.2b) is then
+
+Kf— K: W (6.3)
+
+where K. and Kf are respectively the initial and
+final kinetic energies of the object. Work refers
+to the force and the displacement over which it
+acts. Work is done by a force on the body over
+a certain displacement.
+
+Equation (6.2) is also a special case of the
+work-energy (WE) theorem : The change in
+kinetic energy of a particle is equal to the
+work done on it by the net force. We shall
+generalise the above derivation to a varying force
+in a later section.
+

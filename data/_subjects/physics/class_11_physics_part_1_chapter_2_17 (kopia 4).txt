@@ -1,0 +1,18 @@
+Answer Every correct formula or equation must
+have the same dimensions on both sides of the
+equation. Also, only quantities with the same
+physical dimensions can be added or
+subtracted. The dimensions of the quantity on
+the right side are [M2 L3 T3] for (a); [M L2 T2] for
+(b) and (d); [M LT2] for (c). The quantity on the
+right side of (c) has no proper dimensions since
+two quantities of different dimensions have been
+added. Since the kinetic energy K has the
+dimensions of [M L2 T2], formulas (a), (c) and (e)
+are ruled out. Note that dimensional arguments
+cannot tell which of the two, (b) or (d), is the
+correct formula. For this, one must turn to the
+actual definition of kinetic energy (see Chapter
+6). The correct formula for kinetic energy is given
+by (b). 4
+

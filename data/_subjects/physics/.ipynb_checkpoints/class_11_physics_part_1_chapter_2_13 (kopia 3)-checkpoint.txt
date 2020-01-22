@@ -1,0 +1,11 @@
+2.7.2 Rounding off the Uncertain Digits
+
+The result of computation with approximate
+numbers, which contain more than one
+uncertain digit, should be rounded off. The rules
+for rounding off numbers to the appropriate
+significant figures are obvious in most cases. A
+number 2.746 rounded off to three significant
+figures is 2.75, while the number 2.743 would
+be 2.74. The rule by convention is that the
+preceding digit is raised by 1 if the

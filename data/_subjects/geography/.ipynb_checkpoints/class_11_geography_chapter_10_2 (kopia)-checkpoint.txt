@@ -1,0 +1,8 @@
+Pressure Gradient Force
+
+The differences in atmospheric pressure
+produces a force. The rate of change of pressure
+with respect to distance is the pressure
+gradient. The pressure gradient is strong where
+the isobars are close to each other and is weak
+where the isobars are apart.

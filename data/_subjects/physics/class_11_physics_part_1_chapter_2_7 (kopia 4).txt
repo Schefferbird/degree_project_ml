@@ -1,0 +1,19 @@
+Systematic errors
+
+The systematic errors are those errors that
+tend to be in one direction, either positive or
+negative. Some of the sources of systematic
+errors are :
+
+(a) Instrumental errors that arise from the
+errors due to imperfect design or calibration
+of the measuring instrument, zero error in
+the instrument, etc. For example, the
+temperature graduations of a thermometer
+may be inadequately calibrated (it may read
+104 °C at the boiling point of water at STP
+whereas it should read 100 °C); in a vernier
+callipers the zero mark of vernier scale may
+not coincide with the zero mark of the main
+scale, or simply an ordinary metre scale may
+be worn off at one end.

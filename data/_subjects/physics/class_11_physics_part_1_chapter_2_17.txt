@@ -1,0 +1,19 @@
+test of consistency of units, but has the
+advantage that we need not commit ourselves
+to a particular choice of units, and we need not
+worry about conversions among multiples and
+sub-multiples of the units. It may be borne in
+mind that if an equation fails this consistency
+test, it is proved wrong, but if it passes, it is
+not proved right. Thus, a dimensionally correct
+equation need not be actually an exact
+(correct) equation, but a dimensionally wrong
+(incorrect) or inconsistent equation must be
+wrong.
+
+where m is the mass of the body. L' its
+velocity. 9 is the acceleration due to
+gravity and It is the height. Check
+whether this equation is dimensionally
+correct.
+

@@ -1,0 +1,8 @@
+7.7 TORQUE AND AN GUIAR MOMENTUM
+
+In this section, we shall acquaint ourselves with
+two physical quantities (torque and angular
+momentum) which are deﬁned as vector products
+of two vectors. These as we shall see, are
+especially important in the discussion of motion
+of systems of particles, particularly rigid bodies.

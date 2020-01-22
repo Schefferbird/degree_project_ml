@@ -1,0 +1,23 @@
+Mass kilogram kg The kilogram is equal to the mass of the intemational prototype
+of the kilogram (a platinum-iridium alloy cylinder) kept at
+international Bureau of Weights and Measures, at Sevres, near
+Paris, France. (1889]
+
+Time second s The second is the duration of 9,192,631,770 periods of the
+radiation corresponding to the transition between the two
+hyperﬁne levels of the ground state of the cesium- 133 atom.
+
+ 
+
+(1967)
+Electric ampere A The ampere is that constant current which, if maintained in
+current two straight parallel conductors of inﬁnite length, of negligible
+
+circular cross-section, and placed 1 metre apart in vacuum,
+would produce between these conductors a force equal to 2><107
+newton per metre of length. (1948]
+
+Thermo kelvin K The kelvin, is the fraction 1 /273. 16 of the thermodynamic
+
+dynamic temperature of the triple point of water. (1967)
+
