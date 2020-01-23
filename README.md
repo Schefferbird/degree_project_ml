@@ -1,7 +1,7 @@
 # Bachelor/Data Science/Linnaeus University
 ##### tags: Text Classifcation, POS tagging, Noun Phrase Chunking, NER tagging, Text Summarization
 
--
+
 
 ## Directory tree
 
@@ -40,11 +40,13 @@
     
 
 ```
+###### # This repo reflects mostly our final work in Jupyter Lab.
+
 ## Missing datasets and other sources (due to max size in repo)
 
 ###  GloVe
 
-Create a directory in main called 'glove.6B' (comes with the zip and additional files) and download 'glove.6B.100d.txt' from: [Stanford](https://nlp.stanford.edu/projects/glove/) (glove.6b.zip, size 822MB)
+Create a directory in main called 'glove.6B' (or it comes with the zip with additional files) and download 'glove.6B.100d.txt' from: [Stanford](https://nlp.stanford.edu/projects/glove/) (glove.6b.zip, size 822MB)
 
 
 ### Cornells Newsroom (ROUGE test dataset)
