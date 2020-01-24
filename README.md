@@ -69,7 +69,7 @@ To use StanforNERTagger (ner_pos.ipynb) you need to download [Stanford Named Ent
 
 
 ### [centroid.ipynb](main/centroid.ipynb)/ Automatic Text Summarization
-Implementation of [Centroid-based Text Summarization throughCompositionality of Word Embeddings](https://www.aclweb.org/anthology/W17-1003.pdf)
+Implementation of [Centroid-based Text Summarization through Compositionality of Word Embeddings](https://www.aclweb.org/anthology/W17-1003.pdf)
 from their [Github repo](https://github.com/lambdaofgod/text-summarizer.git).
 
 ### [gensim.ipynb](main/gensim.ipynb) / Automatic Text Summarization (not include in the report)
