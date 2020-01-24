@@ -98,4 +98,9 @@ Implementation of [Variations of the Similarity Function of TextRank for Automat
 from their [Github repo](https://github.com/summanlp/textrank).
 
 ### [textsum.ipynb](main/textsum.ipynb)/ Automatic Text Summarization
-Our own extension of an **nltk frequency algorithm**, with a **Automated Query Weighting**.
+Our own extension of an **nltk frequency algorithm**, with an **Automated Query Weighting**.
+
+
+![ROUGE test for our three text summarizers](main/images/rouge_test.png)
+
+###### A small ROUGE test for three text summarization models on 3 samples from Cornells Newsroom
