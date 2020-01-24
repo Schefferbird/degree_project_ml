@@ -60,3 +60,5 @@ In directory _data_ you will find our small balanced dataset in _\_subjects_, bu
 ### StanfordNERTagger 
 
 To use StanforNERTagger you need to download [Stanford Named Entity Recognizer version 3.9.2](https://nlp.stanford.edu/software/stanford-ner-2018-10-16.zip) (instant download). For more information before download [Stanford](https://nlp.stanford.edu/software/CRF-NER.shtml). Place the directory in _main_.
+
+
