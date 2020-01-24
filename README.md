@@ -103,4 +103,4 @@ Our own extension of an **nltk frequency algorithm**, with an **Automated Query 
 
 ![ROUGE test for our three text summarizers](main/images/rouge_test.png)
 
-###### A small ROUGE test for three text summarization models on 3 samples from Cornells Newsroom
+###### A small ROUGE test for all three text summarization models on three samples from Cornells Newsroom
