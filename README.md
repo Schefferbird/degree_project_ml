@@ -38,7 +38,6 @@
     ├── textrank.ipynb
     └── textsum.ipynb
     
-
 ```
 ###### # This repo reflects mostly our final work in Jupyter Lab.
 
